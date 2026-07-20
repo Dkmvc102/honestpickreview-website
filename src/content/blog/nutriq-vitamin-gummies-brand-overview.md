@@ -1,7 +1,7 @@
 ---
 title: "NutriQ Vitamin Gummies: Brand Overview and Product Lineup"
 description: "A look at NutriQ, a German vitamin gummy brand for kids and adults — product lineup, ingredients, pricing, and what to know before buying."
-category: "beauty-personal-care"
+category: "health-supplements"
 image: "/images/blog/nutriq/hero-immune-booster.webp"
 imageAlt: "NutriQ Immune Booster vitamin gummies product packaging"
 publishDate: 2026-07-20

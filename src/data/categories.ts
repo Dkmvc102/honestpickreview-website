@@ -42,6 +42,12 @@ export const categories: CategoryInfo[] = [
     description: 'Skincare tools, grooming devices, and personal care products.',
     icon: '💄',
   },
+  {
+    slug: 'health-supplements',
+    name: 'Health & Supplements',
+    description: 'Vitamins, supplements, and nutrition products for everyday health.',
+    icon: '💊',
+  },
 ];
 
 export function getCategory(slug: string): CategoryInfo | undefined {
