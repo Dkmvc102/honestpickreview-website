@@ -25,3 +25,9 @@ pnpm-debug.log*
 
 # deployment zip packages (not needed once using Git deploy)
 *.zip
+
+# never track credential/secret files
+Pass*.txt
+*.pem
+*.key
+.env*
