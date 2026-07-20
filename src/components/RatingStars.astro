@@ -1,0 +1,24 @@
+---
+interface Props {
+  rating: number;
+  size?: string;
+  showNumber?: boolean;
+}
+const { rating, size = '1rem', showNumber = true } = Astro.props as Props;
+const full = Math.round(rating * 2) / 2;
+---
+
+<span style={`display: inline-flex; align-items: center; gap: 6px; font-size: ${size};`}>
+  <span aria-hidden="true" style="letter-spacing: 1px;">
+    {Array.from({ length: 5 }).map((_, i) => {
+      const filled = i + 1 <= Math.floor(full);
+      const half = !filled && i + 0.5 === full;
+      return (
+        <span style={`color: ${filled || half ? 'var(--color-star)' : 'var(--color-star-empty)'};`}>
+          {half ? '⯨' : '★'}
+        </span>
+      );
+    })}
+  </span>
+  {showNumber && <strong>{rating.toFixed(1)}</strong>}
+</span>

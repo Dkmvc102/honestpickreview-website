@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+import { getCategory } from '../../data/categories';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((p) => ({ params: { slug: p.id }, props: { entry: p } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const cat = getCategory(entry.data.category);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: entry.data.title,
+  description: entry.data.description,
+  image: new URL(entry.data.image, 'https://honestpickreview.com').toString(),
+  datePublished: entry.data.publishDate.toISOString().slice(0, 10),
+  dateModified: (entry.data.updatedDate ?? entry.data.publishDate).toISOString().slice(0, 10),
+  author: { '@type': 'Organization', name: 'HonestPickReview Editorial Team' },
+};
+---
+
+<BaseLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  image={entry.data.image}
+  canonicalPath={`/blog/${entry.id}/`}
+  jsonLd={jsonLd}
+>
+  <div class="container" style="padding-top: 24px;">
+    <p class="breadcrumbs"><a href="/">Home</a> / <a href="/blog/">Buying Guides</a> / {entry.data.title}</p>
+  </div>
+  <article class="container" style="max-width: 780px;">
+    {cat && <span class="badge">{cat.name}</span>}
+    <h1 style="margin-top: 12px;">{entry.data.title}</h1>
+    <img src={entry.data.image} alt={entry.data.imageAlt} style="border-radius: var(--radius-md); margin: 16px 0 24px; aspect-ratio: 16/9; object-fit: cover; width: 100%;" />
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>

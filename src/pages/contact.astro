@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Contact Us" description="Get in touch with the HonestPickReview team.">
+  <div class="container" style="padding-top: 24px;">
+    <p class="breadcrumbs"><a href="/">Home</a> / Contact</p>
+  </div>
+  <article class="container prose" style="max-width: 720px; padding-bottom: 48px;">
+    <h1>Contact Us</h1>
+    <p>
+      Have a correction, a product suggestion, or a partnership inquiry? Reach out at
+      <a href="mailto:hello@honestpickreview.com">hello@honestpickreview.com</a>.
+    </p>
+    <p style="color: var(--color-text-muted); font-size: 0.9rem;">
+      Note: this site is static (no server backend), so this page uses a plain <code>mailto:</code> link.
+      If you want an on-page contact form, connect a third-party form service such as Formspree, Getform, or
+      Basin — they work with static sites by handling form submission via their own hosted endpoint.
+    </p>
+  </article>
+</BaseLayout>

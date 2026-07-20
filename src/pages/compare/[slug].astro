@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import RatingStars from '../../components/RatingStars.astro';
+import { getCollection, getEntry, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('compare');
+  return entries.map((e) => ({ params: { slug: e.id }, props: { entry: e } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const productA = await getEntry('reviews', entry.data.productA.reviewSlug);
+const productB = await getEntry('reviews', entry.data.productB.reviewSlug);
+---
+
+<BaseLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  canonicalPath={`/compare/${entry.id}/`}
+>
+  <div class="container" style="padding-top: 24px;">
+    <p class="breadcrumbs"><a href="/">Home</a> / Compare / {entry.data.title}</p>
+  </div>
+  <article class="container" style="max-width: 820px;">
+    <h1>{entry.data.title}</h1>
+    <p style="color: var(--color-text-muted);">{entry.data.description}</p>
+
+    <div class="grid grid-2" style="margin: 24px 0;">
+      {[{ p: productA, verdict: entry.data.productA.verdict }, { p: productB, verdict: entry.data.productB.verdict }].map(({ p, verdict }) => p && (
+        <div class="card" style="padding: 16px;">
+          <img src={p.data.image} alt={p.data.imageAlt} style="aspect-ratio: 4/3; object-fit: cover; width: 100%; border-radius: var(--radius-sm); margin-bottom: 12px;" />
+          <h3 style="margin: 0 0 6px;"><a href={`/reviews/${p.data.category}/${p.id}/`}>{p.data.productName}</a></h3>
+          <RatingStars rating={p.data.rating} size="0.9rem" />
+          <p style="margin: 10px 0 0; font-size: 0.9rem; color: var(--color-text-muted);">{verdict}</p>
+        </div>
+      ))}
+    </div>
+
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>

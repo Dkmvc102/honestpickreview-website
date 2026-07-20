@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ProductCard from '../../../components/ProductCard.astro';
+import { getCollection } from 'astro:content';
+import { categories, getCategory } from '../../../data/categories';
+
+export async function getStaticPaths() {
+  return categories.map((c) => ({ params: { category: c.slug } }));
+}
+
+const { category } = Astro.params;
+const catInfo = getCategory(category as string)!;
+const reviews = (await getCollection('reviews', (r) => r.data.category === category)).sort(
+  (a, b) => b.data.rating - a.data.rating
+);
+---
+
+<BaseLayout
+  title={`${catInfo.name} Reviews`}
+  description={`${catInfo.description} Independent reviews and ratings from HonestPickReview.`}
+  canonicalPath={`/reviews/${catInfo.slug}/`}
+>
+  <div class="container" style="padding-top: 24px;">
+    <p class="breadcrumbs"><a href="/">Home</a> / {catInfo.name}</p>
+  </div>
+  <section class="container" style="padding-bottom: 16px;">
+    <h1 style="font-size: 2rem;">{catInfo.icon} {catInfo.name} Reviews</h1>
+    <p style="color: var(--color-text-muted); max-width: 640px;">{catInfo.description}</p>
+  </section>
+  <section class="section container" style="padding-top: 0;">
+    <div class="grid grid-3">
+      {reviews.map((r) => (
+        <ProductCard
+          href={`/reviews/${catInfo.slug}/${r.id}/`}
+          image={r.data.image}
+          imageAlt={r.data.imageAlt}
+          title={r.data.productName}
+          bestFor={r.data.bestFor}
+          rating={r.data.rating}
+          priceRange={r.data.priceRange}
+        />
+      ))}
+    </div>
+    {reviews.length === 0 && <p>No reviews published in this category yet — check back soon.</p>}
+  </section>
+</BaseLayout>

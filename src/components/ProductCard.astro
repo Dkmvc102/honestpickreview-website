@@ -1,0 +1,28 @@
+---
+import RatingStars from './RatingStars.astro';
+
+interface Props {
+  href: string;
+  image: string;
+  imageAlt: string;
+  title: string;
+  bestFor: string;
+  rating: number;
+  priceRange: string;
+  categoryName?: string;
+}
+const { href, image, imageAlt, title, bestFor, rating, priceRange, categoryName } = Astro.props as Props;
+---
+
+<a href={href} class="card" style="display: flex; flex-direction: column; color: inherit;">
+  <img src={image} alt={imageAlt} loading="lazy" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" />
+  <div style="padding: 16px; display: flex; flex-direction: column; gap: 8px; flex: 1;">
+    {categoryName && <span class="badge" style="align-self: flex-start;">{categoryName}</span>}
+    <h3 style="font-size: 1.05rem; margin: 0;">{title}</h3>
+    <p style="color: var(--color-text-muted); font-size: 0.88rem; margin: 0;">Best for: {bestFor}</p>
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-top: auto; padding-top: 8px;">
+      <RatingStars rating={rating} size="0.85rem" />
+      <strong style="color: var(--color-primary-dark);">{priceRange}</strong>
+    </div>
+  </div>
+</a>

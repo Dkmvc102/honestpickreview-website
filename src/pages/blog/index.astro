@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { getCategory } from '../../data/categories';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+---
+
+<BaseLayout title="Buying Guides & Blog" description="In-depth buying guides that explain the specs and terminology behind product categories, so you can shop with confidence.">
+  <div class="container" style="padding-top: 24px;">
+    <p class="breadcrumbs"><a href="/">Home</a> / Buying Guides</p>
+  </div>
+  <section class="container" style="padding-bottom: 16px;">
+    <h1>Buying Guides</h1>
+    <p style="color: var(--color-text-muted); max-width: 640px;">Understand the specs and terminology before you shop, not after.</p>
+  </section>
+  <section class="section container" style="padding-top: 0;">
+    <div class="grid grid-3">
+      {posts.map((p) => {
+        const cat = getCategory(p.data.category);
+        return (
+          <a href={`/blog/${p.id}/`} class="card" style="display: block; color: inherit;">
+            <img src={p.data.image} alt={p.data.imageAlt} loading="lazy" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" />
+            <div style="padding: 16px;">
+              {cat && <span class="badge" style="margin-bottom: 8px; display: inline-block;">{cat.name}</span>}
+              <h3 style="font-size: 1.05rem; margin: 0 0 6px;">{p.data.title}</h3>
+              <p style="color: var(--color-text-muted); font-size: 0.88rem; margin: 0;">{p.data.description}</p>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</BaseLayout>

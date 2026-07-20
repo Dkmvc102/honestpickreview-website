@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ProductCard from '../components/ProductCard.astro';
+import { getCollection } from 'astro:content';
+import { categories, getCategory } from '../data/categories';
+
+const allReviews = (await getCollection('reviews')).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+const latestReviews = allReviews.slice(0, 6);
+
+const bestof = (await getCollection('bestof')).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+---
+
+<BaseLayout
+  title="HonestPickReview — Independent Reviews of Everyday Physical Products"
+  description="Research-driven reviews and buying guides across home & kitchen, electronics, fitness, tools, baby gear, and beauty products."
+>
+  <section class="section" style="background: var(--color-surface); border-bottom: 1px solid var(--color-border);">
+    <div class="container" style="text-align: center; padding: 40px 0;">
+      <h1 style="font-size: 2.4rem; max-width: 700px; margin: 0 auto 16px;">
+        Honest, research-driven product reviews — before you buy.
+      </h1>
+      <p style="color: var(--color-text-muted); max-width: 600px; margin: 0 auto 24px; font-size: 1.05rem;">
+        We compare specs, pricing, and real buyer feedback across home, tech, fitness, tools, baby gear, and beauty products so you don't have to.
+      </p>
+      <a href="#categories" class="btn btn-primary">Browse Categories</a>
+    </div>
+  </section>
+
+  <section class="section container" id="categories">
+    <h2 class="section-title">Shop by Category</h2>
+    <p class="section-subtitle">Jump straight to the product type you're researching.</p>
+    <div class="grid grid-3">
+      {categories.map((c) => (
+        <a href={`/reviews/${c.slug}/`} class="card" style="padding: 24px; color: inherit; display: flex; gap: 14px; align-items: flex-start;">
+          <span style="font-size: 1.8rem;">{c.icon}</span>
+          <span>
+            <h3 style="margin: 0 0 4px; font-size: 1.05rem;">{c.name}</h3>
+            <p style="margin: 0; color: var(--color-text-muted); font-size: 0.88rem;">{c.description}</p>
+          </span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="section container">
+    <h2 class="section-title">Latest Reviews</h2>
+    <p class="section-subtitle">Our most recently published or updated product reviews.</p>
+    <div class="grid grid-3">
+      {latestReviews.map((r) => {
+        const cat = getCategory(r.data.category);
+        return (
+          <ProductCard
+            href={`/reviews/${r.data.category}/${r.id}/`}
+            image={r.data.image}
+            imageAlt={r.data.imageAlt}
+            title={r.data.productName}
+            bestFor={r.data.bestFor}
+            rating={r.data.rating}
+            priceRange={r.data.priceRange}
+            categoryName={cat?.name}
+          />
+        );
+      })}
+    </div>
+  </section>
+
+  <section class="section" style="background: var(--color-surface); border-top: 1px solid var(--color-border);">
+    <div class="container">
+      <h2 class="section-title">Best-Of Roundups</h2>
+      <p class="section-subtitle">Ranked picks when you don't have time to compare every option yourself.</p>
+      <div class="grid grid-3">
+        {bestof.map((b) => (
+          <a href={`/best/${b.id}/`} class="card" style="display: block; color: inherit;">
+            <img src={b.data.image} alt={b.data.imageAlt} loading="lazy" style="aspect-ratio: 4/3; object-fit: cover; width: 100%;" />
+            <div style="padding: 16px;">
+              <h3 style="font-size: 1.05rem; margin: 0 0 6px;">{b.data.title}</h3>
+              <p style="color: var(--color-text-muted); font-size: 0.88rem; margin: 0;">{b.data.description}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section container" style="text-align: center;">
+    <h2 class="section-title">How We Review</h2>
+    <p style="max-width: 640px; margin: 0 auto 20px; color: var(--color-text-muted);">
+      Every review on HonestPickReview is based on published specifications, verified buyer feedback patterns, and side-by-side comparisons against category alternatives.
+    </p>
+    <a href="/how-we-review/" class="btn btn-secondary">Read Our Methodology</a>
+  </section>
+</BaseLayout>
