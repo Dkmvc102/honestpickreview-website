@@ -10,6 +10,8 @@ updatedDate: 2026-07-20
 
 NutriQ is a Germany-based supplement brand built around vitamin gummies — chewable, candy-like vitamins aimed at making daily supplementation easier for both kids and adults. This overview looks at what the brand offers, based on the product information published on their official site.
 
+**[→ Shop the full NutriQ range here](https://nutriq.health/collections/alle-produkte?sca_ref=11516940.e3RofgpVDp)**
+
 ## What Is NutriQ?
 
 NutriQ positions itself as a gummy-vitamin brand developed with input from German pediatricians, targeting families who want an easier way to cover nutritional gaps than swallowing pills or capsules. According to the brand, their gummies are:
@@ -64,6 +66,8 @@ A bundled set covering multiple children's formulas together.
 
 **Price:** €79.90 (listed from €89.90)
 
+**[→ See current prices and availability on NutriQ's site](https://nutriq.health/collections/alle-produkte?sca_ref=11516940.e3RofgpVDp)**
+
 ## Things to Know Before Buying
 
 - **Supplements aren't a substitute for a balanced diet.** NutriQ's gummies are marketed as filling nutritional gaps, not replacing whole-food nutrition.
@@ -74,9 +78,7 @@ A bundled set covering multiple children's formulas together.
 
 ## Where to Buy
 
-You can browse the full NutriQ product range here:
-
-[Shop the NutriQ Product Range](https://nutriq.health/collections/alle-produkte?sca_ref=11516940.e3RofgpVDp)
+**[→ Browse the full NutriQ product range](https://nutriq.health/collections/alle-produkte?sca_ref=11516940.e3RofgpVDp)**
 
 *This is an affiliate link — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*
 

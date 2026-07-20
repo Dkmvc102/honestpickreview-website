@@ -48,6 +48,12 @@ export const categories: CategoryInfo[] = [
     description: 'Vitamins, supplements, and nutrition products for everyday health.',
     icon: '💊',
   },
+  {
+    slug: 'fashion-accessories',
+    name: 'Fashion & Accessories',
+    description: 'Bags, wallets, jewelry, and everyday carry accessories.',
+    icon: '👜',
+  },
 ];
 
 export function getCategory(slug: string): CategoryInfo | undefined {
