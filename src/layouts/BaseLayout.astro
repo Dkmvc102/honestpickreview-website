@@ -55,6 +55,16 @@ const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
     {jsonLdArray.map((entry) => (
       <script type="application/ld+json" set:html={JSON.stringify(entry)} />
     ))}
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7T04BGMSNB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      // @ts-ignore
+      gtag('js', new Date());
+      // @ts-ignore
+      gtag('config', 'G-7T04BGMSNB');
+    </script>
   </head>
   <body>
     {false && (
