@@ -1,0 +1,39 @@
+TIÊU CHÍ VIẾT BÀI REVIEW SẢN PHẨM (BRIDGE PAGE / LANDING PAGE AFFILIATE)
+=========================================================================
+
+1. TIÊU ĐỀ & MỞ BÀI
+- Tiêu đề chứa tên sản phẩm + từ khóa review (VD: "NUTRIQ Kids Review 2026 – Có đáng mua?")
+- Mở bài nêu ngay vấn đề/nỗi lo của người mua (VD: con biếng ăn, thiếu vitamin)
+
+2. THÔNG TIN SẢN PHẨM CƠ BẢN
+- Đây là gì, ai sản xuất, dùng cho ai
+- Thành phần chính và công dụng
+- Giá bán, các gói size, có ưu đãi/discount không
+
+3. ƯU ĐIỂM (PROS)
+- 4-6 điểm mạnh cụ thể, có dẫn chứng (thành phần, chứng nhận, feedback thực tế)
+- Tránh chung chung kiểu "sản phẩm rất tốt"
+
+4. NHƯỢC ĐIỂM (CONS)
+- Bắt buộc phải có, dù chỉ 1-2 điểm nhỏ
+- Tăng độ tin cậy, tránh cảm giác quảng cáo trần trụi
+- Quan trọng để bridge page không bị Google gắn cờ "low quality/misleading"
+
+5. BẰNG CHỨNG XÃ HỘI (SOCIAL PROOF)
+- Trích review khách hàng (paraphrase, không copy nguyên văn để tránh vi phạm bản quyền)
+- Rating từ Trustpilot nếu có
+- Trước/sau nếu là sản phẩm sức khỏe – cẩn thận không claim y tế quá đà
+  (đặc biệt thị trường Đức có luật HWG kiểm soát quảng cáo thực phẩm chức năng)
+
+6. SO SÁNH (TÙY CHỌN)
+- So với 1 đối thủ cùng phân khúc để tăng độ khách quan
+
+7. KẾT LUẬN + CTA
+- Tóm tắt "có nên mua không"
+- CTA rõ ràng dẫn sang link affiliate/trang bán hàng
+- Disclaimer affiliate (bắt buộc theo luật Đức/EU)
+
+8. YẾU TỐ KỸ THUẬT
+- Độ dài: 1000-1500 từ cho bridge page (đủ để qua Quality Score, không quá dài gây loãng)
+- Có hình ảnh sản phẩm thật hoặc minh họa
+- Internal link/anchor text tự nhiên chứa brand keyword
