@@ -54,6 +54,12 @@ export const categories: CategoryInfo[] = [
     description: 'Bags, wallets, jewelry, and everyday carry accessories.',
     icon: '👜',
   },
+  {
+    slug: 'automotive',
+    name: 'Automotive',
+    description: 'Dash cams, interior accessories, and gear for cars and trucks.',
+    icon: '🚗',
+  },
 ];
 
 export function getCategory(slug: string): CategoryInfo | undefined {

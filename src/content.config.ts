@@ -10,6 +10,7 @@ const categories = z.enum([
   'beauty-personal-care',
   'health-supplements',
   'fashion-accessories',
+  'automotive',
 ]);
 
 const reviews = defineCollection({
