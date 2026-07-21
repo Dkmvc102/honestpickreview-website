@@ -3,7 +3,7 @@ title: "Express Garage Doors Replacement Parts Review 2026 – Is It Worth Buyin
 productName: "Express Garage Doors Replacement Parts"
 brand: "Express Garage Doors"
 category: "tools-diy"
-image: "/images/blog/expressgaragedoors/hero.png"
+image: "/images/blog/expressgaragedoors/torsion-spring.jpg"
 imageAlt: "Express Garage Doors replacement parts catalog"
 rating: 4.6
 priceRange: "$8.99 – $274.99"
@@ -49,7 +49,7 @@ If your garage door opener started making an alarming noise or the door won't st
 
 Express Garage Doors is an online retailer specializing in garage door replacement parts and components for DIY installation and repair, covering springs, openers, electronic components, and general hardware compatible with major brands like Wayne Dalton, Genie, LiftMaster, and Craftsman.
 
-![Garage door torsion spring from Express Garage Doors](/images/blog/expressgaragedoors/torsion-spring.jpg)
+![Measuring a garage door spring for correct replacement fit](/images/blog/expressgaragedoors/measuring-guide.jpg)
 
 **[→ Shop Express Garage Doors' parts catalog](https://www.expressgaragedoors.com?sca_ref=11778010.Zb7zheP5EC)**
 

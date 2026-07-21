@@ -2,7 +2,7 @@
 title: "Best Tools & DIY Brands of 2026"
 description: "Our top-ranked tools and DIY picks — power tools, hand tools, and specialty equipment — compared on build quality, real customer feedback, and value."
 category: "tools-diy"
-image: "/images/blog/sunstone/hero.png"
+image: "/images/blog/sunstone/zapp-plus-welder.webp"
 imageAlt: "Best tools and DIY brands roundup"
 items:
   - reviewSlug: "sunstone-permanent-jewelry-welders"
