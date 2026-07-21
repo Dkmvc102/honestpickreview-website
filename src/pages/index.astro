@@ -18,8 +18,20 @@ const bestof = (await getCollection('bestof')).sort(
   title="HonestPickReview — Independent Reviews of Everyday Physical Products"
   description="Research-driven reviews and buying guides across home & kitchen, electronics, fitness, tools, baby gear, and beauty products."
 >
-  <section class="section" style="background: var(--color-surface); border-bottom: 1px solid var(--color-border);">
-    <div class="container" style="text-align: center; padding: 40px 0;">
+  <section
+    class="section"
+    style="
+      position: relative;
+      overflow: hidden;
+      border-bottom: 1px solid var(--color-border);
+      background:
+        radial-gradient(circle at 12% 20%, rgba(30, 111, 92, 0.16), transparent 42%),
+        radial-gradient(circle at 88% 15%, rgba(232, 98, 44, 0.16), transparent 45%),
+        radial-gradient(circle at 50% 100%, rgba(30, 111, 92, 0.10), transparent 55%),
+        linear-gradient(180deg, #fbfaf7 0%, #f3f5f2 100%);
+    "
+  >
+    <div class="container" style="position: relative; text-align: center; padding: 56px 0;">
       <h1 style="font-size: 2.4rem; max-width: 700px; margin: 0 auto 16px;">
         Honest, research-driven product reviews — before you buy.
       </h1>
