@@ -33,7 +33,7 @@ faq:
     answer: "Vegan (PU-based) leather generally doesn't develop the same patina as genuine leather and durability varies by manufacturer quality — Bond & Mason doesn't publicly specify their exact material composition, so treat it as good-but-not-forever compared to genuine leather at a similar price."
   - question: "What do verified customers say about Bond & Mason?"
     answer: "Independent Trustpilot reviews are largely positive, with customers frequently praising the quality, design details, and price-to-value ratio of the bags — particularly the handbags. A smaller share of reviews mention delivery delays or minor differences between the received product and website photos."
-affiliateUrl: "https://bondandmason.com"
+affiliateUrl: "https://bondandmason.com/handbags?sca_ref=11734487.9hwlkNyyxy"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-20
 updatedDate: 2026-07-21
@@ -45,7 +45,7 @@ If you want a stylish handbag or backpack but don't want animal leather — whet
 
 Bond & Mason positions itself as a sustainable alternative to traditional leather goods, building its handbags, backpacks, and accessories entirely from vegan leather. The brand describes extensive material development work to land on what it calls a durable, premium-feeling vegan leather blend, and backs purchases with an advertised 5-year guarantee.
 
-**[→ Shop Bond & Mason's vegan leather bags](https://bondandmason.com)**
+**[→ Shop Bond & Mason's vegan leather bags](https://bondandmason.com/handbags?sca_ref=11734487.9hwlkNyyxy)**
 
 ## Product Lineup & Pricing
 
@@ -53,7 +53,7 @@ Bond & Mason's catalog is organized more by style than by named product lines: h
 
 Listed prices range from **€27 to €128**, though the brand runs frequent, fairly steep discounts — expect to see sale prices well below the "regular" listed price during most visits to the site. As with most direct-to-consumer fashion brands running near-constant sales, treat the "regular" price as a soft reference point rather than what most buyers actually pay.
 
-**[→ Browse Bond & Mason's current bag styles](https://bondandmason.com)**
+**[→ Browse Bond & Mason's current bag styles](https://bondandmason.com/handbags?sca_ref=11734487.9hwlkNyyxy)**
 
 ## Pros
 
@@ -81,6 +81,6 @@ Against genuine leather bags in the same price range, Bond & Mason trades long-t
 
 Bond & Mason backs up its style and price positioning with a genuinely solid independent review record — not something we can say for every brand in this list. If a vegan leather bag fits your needs and you're shopping one of their frequent sales, this is a confident recommendation, with the caveat that vegan leather simply won't outlast genuine leather over many years of heavy use.
 
-**[→ Check current prices on Bond & Mason](https://bondandmason.com)**
+**[→ Check current prices on Bond & Mason](https://bondandmason.com/handbags?sca_ref=11734487.9hwlkNyyxy)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

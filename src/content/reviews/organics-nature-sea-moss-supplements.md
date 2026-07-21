@@ -32,7 +32,7 @@ faq:
     answer: "Sea moss (a type of red algae) has a long history of traditional/folk use and contains various minerals and nutrients, but robust modern clinical evidence for many of the specific health claims made by supplement brands (immunity, skin, digestion) is limited — treat it as a nutrient source rather than a proven treatment for specific conditions."
   - question: "Which format should I choose?"
     answer: "Capsules and gummies are the most convenient for consistent dosing; raw dried moss and gel require more preparation but let you control exactly how much you use — the choice mostly comes down to convenience preference rather than one format being definitively superior."
-affiliateUrl: "https://organicsnature.co"
+affiliateUrl: "https://www.organicsnature.co?sca_ref=11778041.sUscq3gBqn"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-21
 updatedDate: 2026-07-21
@@ -42,7 +42,7 @@ updatedDate: 2026-07-21
 
 Organics Nature centers its lineup around sea moss and black seed oil, two ingredients with long histories of traditional use, offered across an unusually wide range of consumable formats.
 
-**[→ Shop Organics Nature's supplement lineup](https://organicsnature.co)**
+**[→ Shop Organics Nature's supplement lineup](https://www.organicsnature.co?sca_ref=11778041.sUscq3gBqn)**
 
 ## Product Lineup
 
@@ -56,7 +56,7 @@ Organics Nature centers its lineup around sea moss and black seed oil, two ingre
 ### Black Seed Oil
 Cold-pressed capsules, sold as a standalone supplement.
 
-**[→ Compare formats and current pricing](https://organicsnature.co)**
+**[→ Compare formats and current pricing](https://www.organicsnature.co?sca_ref=11778041.sUscq3gBqn)**
 
 ### Additional Supplements
 A superfood mushroom blend and an adaptogenic wellness blend round out the catalog for buyers wanting broader supplement coverage from the same brand.
@@ -77,6 +77,6 @@ Organics Nature is a reasonable option for people who specifically want sea moss
 
 This article is not medical advice. Consult a healthcare provider before starting any new supplement.
 
-**[→ Check current pricing on Organics Nature](https://organicsnature.co)**
+**[→ Check current pricing on Organics Nature](https://www.organicsnature.co?sca_ref=11778041.sUscq3gBqn)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

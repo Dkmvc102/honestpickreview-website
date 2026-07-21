@@ -38,7 +38,7 @@ faq:
     answer: "Bro Glo states 6-8 hours to develop, but at least one detailed customer account reported the product taking close to an hour just to dry to the touch, longer than expected for a quick pre-bed routine — apply with enough buffer time rather than right before you need to get dressed."
   - question: "How long does the tan last?"
     answer: "The brand states 5-7 days of color, fading faster or slower depending on skin exfoliation and moisturizing habits; some reviewers reported patchy rather than even fading toward the end of that window."
-affiliateUrl: "https://thebroglo.com"
+affiliateUrl: "https://thebroglo.com?sca_ref=11734355.Xt8xEe4MYV"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-20
 updatedDate: 2026-07-21
@@ -52,7 +52,7 @@ Bro Glo is a self-tanning brand built specifically for men, selling water-based 
 
 This review draws on Bro Glo's own product information alongside independent customer feedback found outside the brand's own site, since on-site testimonials alone tend to present an incomplete picture.
 
-**[→ Shop Bro Glo's self-tanner lineup](https://thebroglo.com)**
+**[→ Shop Bro Glo's self-tanner lineup](https://thebroglo.com?sca_ref=11734355.Xt8xEe4MYV)**
 
 ## Key Ingredients & How It Works
 
@@ -73,7 +73,7 @@ The brand states the formula is non-staining and water-based, meaning it shouldn
 
 Bundle pricing works out to roughly 10-20% cheaper than buying the Face and Body Tanner separately, and Bro Glo offers free shipping on U.S. orders over $60 — which most bundle purchases clear on their own.
 
-**[→ See Bro Glo's Face + Body bundle pricing](https://thebroglo.com)**
+**[→ See Bro Glo's Face + Body bundle pricing](https://thebroglo.com?sca_ref=11734355.Xt8xEe4MYV)**
 
 ## Pros
 
@@ -106,6 +106,6 @@ Bro Glo delivers on its core positioning for most users — a men's-specific sel
 
 **Our take:** if you're new to self-tanning, do a patch test and a full trial run on a low-stakes day (not the night before an important event), apply thinly rather than heavily to reduce the risk of an uneven or reddish tone, and give it more drying time than the 6-8 hour estimate suggests before getting dressed.
 
-**[→ Check current prices on Bro Glo's site](https://thebroglo.com)**
+**[→ Check current prices on Bro Glo's site](https://thebroglo.com?sca_ref=11734355.Xt8xEe4MYV)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

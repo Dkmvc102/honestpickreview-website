@@ -38,7 +38,7 @@ faq:
     answer: "JenniBag has publicly addressed this gap themselves, arguing that Trustpilot reviews skew negative because frustrated customers are more motivated to leave a public third-party review than satisfied ones. That's a real pattern across many brands, but it doesn't fully explain away the specific, repeated complaints (zipper failures, compression issues) found in the negative reviews — worth reading a handful yourself before deciding how much weight to give them."
   - question: "What's the difference between Classic and Roller Edition?"
     answer: "Classic is a lighter duffel-style bag carried by hand or shoulder strap; Roller Edition adds a retractable handle and wheels, extending to about 45 inches with the handle up, at the cost of extra weight."
-affiliateUrl: "https://jennibag.com"
+affiliateUrl: "https://jennibag.com/products/jennitravelbag-2?sca_ref=10357999.8lThV8vpWWEO"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-20
 updatedDate: 2026-07-21
@@ -52,7 +52,7 @@ JenniBag makes carry-on-sized travel duffel and roller bags aimed at travelers w
 
 This review draws on JenniBag's own product information alongside independent customer reviews on Trustpilot, since the brand's on-site testimonials alone don't tell the full story.
 
-**[→ Shop the JenniBag lineup here](https://jennibag.com)**
+**[→ Shop the JenniBag lineup here](https://jennibag.com/products/jennitravelbag-2?sca_ref=10357999.8lThV8vpWWEO)**
 
 ## What It's Made Of & How It Works
 
@@ -64,7 +64,7 @@ The Roller Edition adds a retractable handle and wheels, extending to about 45 i
 
 JenniBag's core bags run roughly **$60-$160** depending on generation and configuration (Classic vs. Roller Edition), with accessories — backpacks, tote bags, crossbody bags, cosmetic bags, tech pouches, luggage tags, and packing cubes — priced separately. The brand backs purchases with a 60-day risk-free guarantee and a lifetime defect replacement policy, which meaningfully lowers the risk of trying it, at least on paper.
 
-**[→ Compare Classic vs. Roller Edition pricing](https://jennibag.com)**
+**[→ Compare Classic vs. Roller Edition pricing](https://jennibag.com/products/jennitravelbag-2?sca_ref=10357999.8lThV8vpWWEO)**
 
 ## Pros
 
@@ -97,6 +97,6 @@ JenniBag's core idea — a genuinely compression-optimized carry-on — solves a
 
 **Our take:** if you order, lean toward the current-generation bag (not older stock) to get the reinforced zippers, and hold onto the 60-day guarantee window rather than assuming everything's fine — test the zippers and compression thoroughly on a low-stakes trip before relying on it for something important.
 
-**[→ See current pricing and bundles on JenniBag's site](https://jennibag.com)**
+**[→ See current pricing and bundles on JenniBag's site](https://jennibag.com/products/jennitravelbag-2?sca_ref=10357999.8lThV8vpWWEO)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

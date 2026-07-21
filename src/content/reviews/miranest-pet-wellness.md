@@ -32,7 +32,7 @@ faq:
     answer: "No — for any diagnosed skin condition (alopecia, dermatitis, allergies), consult a veterinarian first. Supplements and topical products like these are generally best used as a complement to, not a replacement for, professional veterinary diagnosis and treatment."
   - question: "How long before I see results?"
     answer: "The brand's own case studies cite a wide range (23–180 days) depending on the specific condition, which suggests results vary significantly by individual pet and issue — set expectations for a multi-week to multi-month trial rather than a quick fix."
-affiliateUrl: "https://miranest.com"
+affiliateUrl: "https://miranest.com/collections/affiliate-20-off-7-jelly?sca_ref=10210924.RHrx4DVopnqGI&utm_source=uppromote&utm_medium=andrew-hancock&utm_campaign=affiliate-30d"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-21
 updatedDate: 2026-07-21
@@ -42,7 +42,7 @@ updatedDate: 2026-07-21
 
 MIRANEST sells pet wellness products for dogs and cats built around "glyconutrients from Swiftlet Nest," offered in both ingestible (jelly sticks, powder) and topical (shampoo, paw cream, lotion) formats.
 
-**[→ Shop MIRANEST's pet wellness lineup](https://miranest.com)**
+**[→ Shop MIRANEST's pet wellness lineup](https://miranest.com/collections/affiliate-20-off-7-jelly?sca_ref=10210924.RHrx4DVopnqGI&utm_source=uppromote&utm_medium=andrew-hancock&utm_campaign=affiliate-30d)**
 
 ## Product Lineup
 
@@ -52,7 +52,7 @@ Jelly sticks (30-pack) and powders (30 servings) for dogs and cats, positioned t
 ### Skincare
 Shampoo, paw care cream, and lotion round out a topical line meant to work alongside the ingestible supplements for skin and coat concerns.
 
-**[→ See current MIRANEST pricing by product](https://miranest.com)**
+**[→ See current MIRANEST pricing by product](https://miranest.com/collections/affiliate-20-off-7-jelly?sca_ref=10210924.RHrx4DVopnqGI&utm_source=uppromote&utm_medium=andrew-hancock&utm_campaign=affiliate-30d)**
 
 ## Who It's Best For
 
@@ -68,6 +68,6 @@ Pet owners dealing with visible skin or coat issues (dryness, seasonal allergies
 
 MIRANEST is a reasonably positioned pet wellness brand for owners looking to address mild skin and coat issues with a combined internal-plus-topical approach, priced at a premium versus mainstream pet care brands. Treat it as a longer-term wellness routine rather than a quick fix, and loop in a vet for anything beyond mild, cosmetic-level concerns.
 
-**[→ Check current pricing on MIRANEST](https://miranest.com)**
+**[→ Check current pricing on MIRANEST](https://miranest.com/collections/affiliate-20-off-7-jelly?sca_ref=10210924.RHrx4DVopnqGI&utm_source=uppromote&utm_medium=andrew-hancock&utm_campaign=affiliate-30d)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

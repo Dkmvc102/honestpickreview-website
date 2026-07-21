@@ -32,7 +32,7 @@ faq:
     answer: "The brand states its popular-series collections are approved merchandise, with proceeds shared with authors — worth confirming licensing status on the specific product page if that matters to you, since unlicensed fan merch is common in this space generally."
   - question: "How do the shirts fit?"
     answer: "Sizing varies by product line (standard tee vs. Comfort Colors vs. sweatshirt) — check the specific size chart for each item rather than assuming consistent sizing across the whole catalog."
-affiliateUrl: "https://thelibrarycloset.com"
+affiliateUrl: "https://thelibrarycloset.com?sca_ref=11734799.9FlfiA0gVE"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-21
 updatedDate: 2026-07-21
@@ -42,7 +42,7 @@ updatedDate: 2026-07-21
 
 The Library Closet makes apparel and merchandise for self-described "book obsessed" readers — ranging from humorous graphic tees about reading habits to officially licensed collections tied to popular fantasy and romance book series.
 
-**[→ Shop The Library Closet's bookish apparel](https://thelibrarycloset.com)**
+**[→ Shop The Library Closet's bookish apparel](https://thelibrarycloset.com?sca_ref=11734799.9FlfiA0gVE)**
 
 ## Product Lineup
 
@@ -55,7 +55,7 @@ Oversized pullovers featuring book-themed graphics, including a customizable boo
 ### Licensed Fandom Collections
 Approved merchandise tied to specific popular series (Fourth Wing, Zodiac Academy, Jane Austen), with the brand stating proceeds are shared with authors.
 
-**[→ Browse current collections and designs](https://thelibrarycloset.com)**
+**[→ Browse current collections and designs](https://thelibrarycloset.com?sca_ref=11734799.9FlfiA0gVE)**
 
 ## Who It's Best For
 
@@ -71,6 +71,6 @@ Readers active in book communities (BookTok, Bookstagram, fantasy/romance fandom
 
 The Library Closet is a strong pick specifically for readers who want their book obsession reflected in their wardrobe, with officially licensed options that set it apart from generic "book lover" merchandise. The value proposition depends heavily on whether the specific designs and fandoms resonate with you.
 
-**[→ Check current pricing and designs](https://thelibrarycloset.com)**
+**[→ Check current pricing and designs](https://thelibrarycloset.com?sca_ref=11734799.9FlfiA0gVE)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

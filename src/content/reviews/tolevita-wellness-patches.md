@@ -30,7 +30,7 @@ specs:
 faq:
   - question: "Do wellness patches actually work?"
     answer: "Transdermal absorption varies significantly by ingredient — some compounds absorb well through skin, others don't. Treat brand and customer claims as anecdotal rather than clinically proven for these specific patches, and don't expect the same evidence base as oral supplements with more research behind them."
-affiliateUrl: "https://shop.tolevita.com"
+affiliateUrl: "https://shop.tolevita.com?sca_ref=11734562.8H9Imf9V4Bt"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-21
 updatedDate: 2026-07-21
@@ -40,13 +40,13 @@ updatedDate: 2026-07-21
 
 TOLEVITA sells adhesive wellness patches designed for a range of goals — sleep support, stress relief, energy, smoking cessation aid, and skin/beauty support — using herbal ingredient blends absorbed through the skin.
 
-**[→ Shop TOLEVITA's patch lineup](https://shop.tolevita.com)**
+**[→ Shop TOLEVITA's patch lineup](https://shop.tolevita.com?sca_ref=11734562.8H9Imf9V4Bt)**
 
 ## Product Lineup
 
 The lineup spans **Anti-Smoke Patches**, **Sleep Patches** (melatonin, lavender), **Calm Patches** (L-theanine, GABA), **Energy Patches**, **Collagen Patches**, and **Anti-Wrinkle Patches & Masks**, plus a line of essential oils.
 
-**[→ See current TOLEVITA pricing across product lines](https://shop.tolevita.com)**
+**[→ See current TOLEVITA pricing across product lines](https://shop.tolevita.com?sca_ref=11734562.8H9Imf9V4Bt)**
 
 ## Who It's Best For
 
@@ -64,6 +64,6 @@ TOLEVITA's patches are a low-commitment way to try wellness support without pill
 
 This article is not medical advice. Consult a healthcare provider before starting any new supplement or wellness product.
 
-**[→ Check current TOLEVITA pricing](https://shop.tolevita.com)**
+**[→ Check current TOLEVITA pricing](https://shop.tolevita.com?sca_ref=11734562.8H9Imf9V4Bt)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

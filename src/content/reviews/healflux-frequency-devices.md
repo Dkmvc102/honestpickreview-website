@@ -31,7 +31,7 @@ faq:
     answer: "No credible independent clinical research supports \"frequency healing,\" \"scalar energy,\" or similar quantum/vibration wellness claims as having a measurable physiological effect beyond placebo. Treat marketing claims for this category of product with significant skepticism, and note that the brand itself explicitly disclaims any medical benefit."
   - question: "Are these safe to use?"
     answer: "The devices themselves (light panels, low-power handheld units) are generally low-risk from a basic safety standpoint, but 'low risk' is different from 'effective' — don't substitute these for medical treatment of any real health condition."
-affiliateUrl: "https://healflux.com"
+affiliateUrl: "https://healflux.com?sca_ref=11734634.1T33oTaRVRN"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-21
 updatedDate: 2026-07-21
@@ -43,7 +43,7 @@ Healflux sells a range of wellness gadgets built around "frequency, vibration & 
 
 **We want to be direct about this one:** claims involving "frequency healing," "scalar energy," and "quantum" wellness effects are not supported by mainstream scientific evidence, and Healflux's own site includes a disclaimer stating its products are not medical devices and are not intended to diagnose, treat, cure, or prevent any disease. We're covering it here because it appeared in our research list, but we want that context front and center rather than buried at the bottom.
 
-**[→ See Healflux's product lineup](https://healflux.com)**
+**[→ See Healflux's product lineup](https://healflux.com?sca_ref=11734634.1T33oTaRVRN)**
 
 ## Product Lineup
 
@@ -56,7 +56,7 @@ An LED-based light therapy product — light therapy itself (specifically red/ne
 ### Plasma Zapper & Plasma Water Energizer (£299 each, listed from £600)
 Handheld and water-treatment devices using "plasma" branding — these fall into the more scientifically unsubstantiated end of the product range.
 
-**[→ Compare pricing across Healflux's product line](https://healflux.com)**
+**[→ Compare pricing across Healflux's product line](https://healflux.com?sca_ref=11734634.1T33oTaRVRN)**
 
 ## Things to Know Before Buying
 
@@ -71,6 +71,6 @@ We're rating this one more cautiously than other products we cover. If you're cu
 
 This article is not medical advice. Consult a healthcare provider for diagnosis and treatment of any health condition.
 
-**[→ View current Healflux pricing](https://healflux.com)**
+**[→ View current Healflux pricing](https://healflux.com?sca_ref=11734634.1T33oTaRVRN)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

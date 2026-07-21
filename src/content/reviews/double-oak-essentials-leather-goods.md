@@ -31,7 +31,7 @@ faq:
     answer: "Top-grain leather generally benefits from occasional conditioning and should be kept away from prolonged moisture — check the brand's care instructions for their specific finish."
   - question: "Is the tree-planting claim verified?"
     answer: "It's a stated partnership with a third party (GreenSpark), which is a real and common model for e-commerce sustainability programs, but the specific tree count is brand-reported rather than independently audited — treat it as a nice-to-have rather than the primary reason to buy."
-affiliateUrl: "https://doubleoakessentials.com"
+affiliateUrl: "https://www.doubleoakessentials.com?sca_ref=11734365.OCdj9pGhhBBtqa"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-20
 updatedDate: 2026-07-21
@@ -43,7 +43,7 @@ If your current wallet is a bulky, overstuffed relic you've been meaning to repl
 
 Double Oak Essentials makes top-grain leather wallets, belts, and travel bags built around a minimalist design philosophy: fewer, better pieces rather than a sprawling catalog. Alongside the leather goods, the brand ties a portion of every purchase to a tree-planting partnership with GreenSpark, positioning itself as a sustainability-conscious alternative to mass-produced accessory brands.
 
-**[→ Shop Double Oak Essentials' lineup](https://doubleoakessentials.com)**
+**[→ Shop Double Oak Essentials' lineup](https://www.doubleoakessentials.com?sca_ref=11734365.OCdj9pGhhBBtqa)**
 
 ## What It's Made Of
 
@@ -58,7 +58,7 @@ Everything in the core lineup uses **genuine top-grain leather** — a meaningfu
 | Backpack | $114.95–$159.95 | Travel-focused |
 | Backcountry Beanie | ~$29.95 | Multiple colors |
 
-**[→ See current wallet and belt pricing](https://doubleoakessentials.com)**
+**[→ See current wallet and belt pricing](https://www.doubleoakessentials.com?sca_ref=11734365.OCdj9pGhhBBtqa)**
 
 ## Pros
 
@@ -86,6 +86,6 @@ Against mass-market leather wallet brands, Double Oak Essentials' minimalist, po
 
 Double Oak Essentials delivers real top-grain leather with a couple of genuinely useful design details (the pop-up wallet, the stretch belt) at a reasonable mid-range price, backed by a sustainability angle that's a nice bonus rather than the main selling point. It's a solid pick if you want simple, functional leather goods without an ultra-premium price tag.
 
-**[→ Browse current deals on Double Oak Essentials](https://doubleoakessentials.com)**
+**[→ Browse current deals on Double Oak Essentials](https://www.doubleoakessentials.com?sca_ref=11734365.OCdj9pGhhBBtqa)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

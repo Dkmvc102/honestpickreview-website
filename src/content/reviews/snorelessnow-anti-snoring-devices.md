@@ -33,7 +33,7 @@ faq:
     answer: "These are over-the-counter anti-snoring products, not a diagnosed treatment for obstructive sleep apnea. If snoring is loud, chronic, or accompanied by daytime fatigue or breathing pauses, see a doctor or sleep specialist."
   - question: "Why does the mouth guard have a much higher rating than the overall company rating?"
     answer: "Product-specific review platforms (which track verified purchasers of that exact item) and general company-review platforms (which capture the full range of customer service experiences, including shipping and refund issues) measure different things. The mouth guard's own review score is strong; treat any company-wide service complaints as a separate consideration from whether the device itself works for most buyers."
-affiliateUrl: "https://snorelessnow.com"
+affiliateUrl: "https://snorelessnow.com/products/anti-snore-pillow-sleep-positioning-pillow?sca_ref=11777944.wygqGrbYbW"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-20
 updatedDate: 2026-07-21
@@ -45,7 +45,7 @@ If you or your partner have tried the cheap drugstore nasal strips and they didn
 
 SnoreLessNow sells a small, focused lineup of anti-snoring products, each targeting a different likely cause of snoring rather than betting everything on one catch-all device: a jaw-repositioning mouth guard, a side-sleeping-encouraging pillow, and a nasal dilator for congestion-related snoring.
 
-**[→ Shop SnoreLessNow's anti-snoring lineup](https://snorelessnow.com)**
+**[→ Shop SnoreLessNow's anti-snoring lineup](https://snorelessnow.com/products/anti-snore-pillow-sleep-positioning-pillow?sca_ref=11777944.wygqGrbYbW)**
 
 ## Product Lineup & Pricing
 
@@ -58,7 +58,7 @@ A pillow shape intended to encourage side-sleeping, targeting snoring linked spe
 ### Airflow Clip Nasal Dilator ($17.99)
 A low-cost nasal dilator marketed to help with nasal congestion contributing to snoring — the cheapest entry point if you want to try the brand before committing to the mouth guard.
 
-**[→ See the Snore No More bundle pricing](https://snorelessnow.com)**
+**[→ See the Snore No More bundle pricing](https://snorelessnow.com/products/anti-snore-pillow-sleep-positioning-pillow?sca_ref=11777944.wygqGrbYbW)**
 
 The **Snore No More Bundle** combines all three for $197.97 (listed from $297.97), which makes sense if you're not sure which cause applies to you and want to try all three approaches at once.
 
@@ -90,6 +90,6 @@ The Somnofit-S mouth guard's strong, large-sample product review score is a real
 
 This article is not medical advice. Consult a doctor or sleep specialist for diagnosis and treatment of snoring or suspected sleep apnea.
 
-**[→ Check current pricing on SnoreLessNow](https://snorelessnow.com)**
+**[→ Check current pricing on SnoreLessNow](https://snorelessnow.com/products/anti-snore-pillow-sleep-positioning-pillow?sca_ref=11777944.wygqGrbYbW)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

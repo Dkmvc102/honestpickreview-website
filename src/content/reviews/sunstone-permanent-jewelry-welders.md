@@ -32,7 +32,7 @@ faq:
     answer: "The brand markets an ROI estimate of roughly 50 bracelets to break even, but actual payback time depends heavily on your local market, pricing, and how much you invest in marketing and finding customers."
   - question: "Do I need welding experience to start?"
     answer: "Sunstone includes training as part of its kits (varying by tier), aimed at people without prior welding background, though as with any new skill, results improve with practice."
-affiliateUrl: "https://permanentjewelry.sunstonewelders.com"
+affiliateUrl: "https://permanentjewelry.sunstonewelders.com?sca_ref=11785661.Vje9vI6E8DFg1av&utm_source=referral&utm_medium=affiliate_outreach&utm_campaign=affiliate"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-21
 updatedDate: 2026-07-21
@@ -42,7 +42,7 @@ updatedDate: 2026-07-21
 
 Sunstone specializes in permanent jewelry welding equipment and supplies for entrepreneurs starting their own micro-welding jewelry businesses — bundling welders, certified chain inventory, and training into starter kits.
 
-**[→ See Sunstone's welder and starter kit lineup](https://permanentjewelry.sunstonewelders.com)**
+**[→ See Sunstone's welder and starter kit lineup](https://permanentjewelry.sunstonewelders.com?sca_ref=11785661.Vje9vI6E8DFg1av&utm_source=referral&utm_medium=affiliate_outreach&utm_campaign=affiliate)**
 
 ## Product Lineup
 
@@ -52,7 +52,7 @@ The Zapp® and Zapp Plus® 2 (entry/mid-level) and Orion mPulse® (professional-
 ### Starter Kits ($2,399–$4,999)
 Momentum (basic equipment + training), Dream (adds mentoring and expanded inventory), and Legacy (top-tier kit with the most inventory and professional welder).
 
-**[→ Compare starter kit tiers and pricing](https://permanentjewelry.sunstonewelders.com)**
+**[→ Compare starter kit tiers and pricing](https://permanentjewelry.sunstonewelders.com?sca_ref=11785661.Vje9vI6E8DFg1av&utm_source=referral&utm_medium=affiliate_outreach&utm_campaign=affiliate)**
 
 ### Accessories
 Sunstone Shades™ wireless darkening glasses, eclips™ auto-darkening lens, tungsten electrodes, and precision pliers round out the equipment lineup.
@@ -71,6 +71,6 @@ People seriously considering starting a permanent jewelry business — this is b
 
 Sunstone positions itself as an established, certified option in the permanent jewelry equipment space, with real welding industry credentials behind it. As with any business equipment purchase, treat marketing ROI claims as estimates and validate demand in your specific market before investing.
 
-**[→ Check current Sunstone kit pricing](https://permanentjewelry.sunstonewelders.com)**
+**[→ Check current Sunstone kit pricing](https://permanentjewelry.sunstonewelders.com?sca_ref=11785661.Vje9vI6E8DFg1av&utm_source=referral&utm_medium=affiliate_outreach&utm_campaign=affiliate)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

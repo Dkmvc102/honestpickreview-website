@@ -36,7 +36,7 @@ faq:
     answer: "MicroVitamin's positioning is built around active nutrient forms and full clinical-trial-matched doses rather than the cheaper, lower-bioavailability forms often used to hit a lower price point — that generally comes at a higher cost per serving, but it's a genuine formulation difference, not just marketing."
   - question: "Is the Labdoor testing independently verified?"
     answer: "Labdoor is a third-party supplement testing service that independently analyzes products for label accuracy and contamination — a 99.7/100 Grade A score is a strong, externally verified result rather than a brand's own self-reported claim."
-affiliateUrl: "https://microvitamin.com"
+affiliateUrl: "https://microvitamin.com?sca_ref=11734450.9k1Iarj8fo"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-20
 updatedDate: 2026-07-21
@@ -48,7 +48,7 @@ If you've ever read the back of a multivitamin bottle and hit a wall of vague "p
 
 MicroVitamin was developed by Dr. Brad Stanfield, a New Zealand-based MD known online for evidence-based, anti-hype supplement commentary. The brand's entire positioning is built around transparency: publishing exact ingredient forms and doses instead of hiding amounts behind proprietary blend labeling, and backing that up with independent third-party testing rather than just brand claims.
 
-**[→ Shop MicroVitamin's product lineup](https://microvitamin.com)**
+**[→ Shop MicroVitamin's product lineup](https://microvitamin.com?sca_ref=11734450.9k1Iarj8fo)**
 
 ## Key Ingredients & What Makes the Formulation Different
 
@@ -71,7 +71,7 @@ Independent verification matters here: MicroVitamin scored **99.7 out of 100 (Gr
 
 The capsule formula is taken as 5 capsules per day; the powder version adds collagen, creatine, fiber, and taurine for buyers who want a broader daily supplement stack in one product. A separate Sleep formula (melatonin and magnesium) is sold independently for anyone who only wants that piece.
 
-**[→ Compare capsule vs. powder pricing](https://microvitamin.com)**
+**[→ Compare capsule vs. powder pricing](https://microvitamin.com?sca_ref=11734450.9k1Iarj8fo)**
 
 ## Pros
 
@@ -102,6 +102,6 @@ MicroVitamin backs up its premium price with real, independently verified substa
 
 This article is not medical advice. Consult a healthcare provider before starting any new supplement, especially if you take medication or have an existing health condition.
 
-**[→ See current MicroVitamin pricing and subscription options](https://microvitamin.com)**
+**[→ See current MicroVitamin pricing and subscription options](https://microvitamin.com?sca_ref=11734450.9k1Iarj8fo)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*
