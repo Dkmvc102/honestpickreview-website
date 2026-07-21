@@ -2,7 +2,7 @@
 title: "Best Health & Supplement Brands of 2026"
 description: "Our top-ranked health and supplement picks — vitamin gummies, multivitamins, creatine, and anti-snoring devices — based on ingredient transparency and value."
 category: "health-supplements"
-image: "/images/placeholders/health-supplements.svg"
+image: "/images/blog/nutriq/hero-immune-booster.webp"
 imageAlt: "Best health and supplement brands roundup"
 items:
   - reviewSlug: "microvitamin-multivitamin"

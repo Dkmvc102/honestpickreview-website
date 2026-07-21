@@ -2,7 +2,7 @@
 title: "Best Fashion & Accessories Brands of 2026"
 description: "Our top-ranked bags, jewelry, and everyday-carry accessory brands, compared on materials, price, and value."
 category: "fashion-accessories"
-image: "/images/placeholders/beauty-personal-care.svg"
+image: "/images/blog/hbd/hero.png"
 imageAlt: "Best fashion and accessories brands roundup"
 items:
   - reviewSlug: "hbd-personalized-jewellery"
