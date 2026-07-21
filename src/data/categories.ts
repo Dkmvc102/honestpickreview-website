@@ -60,6 +60,18 @@ export const categories: CategoryInfo[] = [
     description: 'Dash cams, interior accessories, and gear for cars and trucks.',
     icon: '🚗',
   },
+  {
+    slug: 'pet-care',
+    name: 'Pet Care',
+    description: 'Supplements, grooming, and wellness products for dogs and cats.',
+    icon: '🐾',
+  },
+  {
+    slug: 'hobbies-entertainment',
+    name: 'Hobbies & Entertainment',
+    description: 'Fan merch, hobby gear, and entertainment-themed products.',
+    icon: '🎨',
+  },
 ];
 
 export function getCategory(slug: string): CategoryInfo | undefined {
