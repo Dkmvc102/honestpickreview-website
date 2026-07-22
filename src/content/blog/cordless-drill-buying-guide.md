@@ -29,7 +29,3 @@ Brushless motors are more energy-efficient, run cooler, and last longer than bru
 ## Battery Platform Compatibility
 
 If you already own tools from a specific brand, staying within that brand's battery platform lets you share batteries and chargers across tools, which is often more cost-effective than buying standalone tools.
-
-## Related Reviews
-
-Compare two popular options in our head-to-head: [TorquePro 20V vs. ForgeMax 18V Brushless](/compare/torquepro-vs-forgemax-cordless-drill/).
