@@ -45,18 +45,83 @@ const bestof = (await getCollection('bestof')).sort(
   <section class="section container" id="categories">
     <h2 class="section-title">Shop by Category</h2>
     <p class="section-subtitle">Jump straight to the product type you're researching.</p>
-    <div class="grid grid-3">
+    <div class="category-grid">
       {categories.map((c) => (
-        <a href={`/reviews/${c.slug}/`} class="card" style="padding: 24px; color: inherit; display: flex; gap: 14px; align-items: flex-start;">
-          <span style="font-size: 1.8rem;">{c.icon}</span>
+        <a href={`/reviews/${c.slug}/`} class="card category-card">
+          <span class="category-card__icon">{c.icon}</span>
           <span>
-            <h3 style="margin: 0 0 4px; font-size: 1.05rem;">{c.name}</h3>
-            <p style="margin: 0; color: var(--color-text-muted); font-size: 0.88rem;">{c.description}</p>
+            <h3 class="category-card__name">{c.name}</h3>
+            <p class="category-card__desc">{c.description}</p>
           </span>
         </a>
       ))}
     </div>
   </section>
+
+  <style>
+    .category-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .category-card {
+      padding: 20px;
+      color: inherit;
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+    }
+
+    .category-card__icon {
+      font-size: 1.6rem;
+      flex-shrink: 0;
+    }
+
+    .category-card__name {
+      margin: 0 0 4px;
+      font-size: 1rem;
+    }
+
+    .category-card__desc {
+      margin: 0;
+      color: var(--color-text-muted);
+      font-size: 0.85rem;
+    }
+
+    @media (max-width: 900px) {
+      .category-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 620px) {
+      .category-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+      }
+
+      .category-card {
+        padding: 14px;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 6px;
+      }
+
+      .category-card__icon {
+        font-size: 1.5rem;
+      }
+
+      .category-card__name {
+        font-size: 0.88rem;
+      }
+
+      .category-card__desc {
+        display: none;
+      }
+    }
+  </style>
 
   <section class="section container">
     <h2 class="section-title">Latest Reviews</h2>
