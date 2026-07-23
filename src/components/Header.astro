@@ -2,17 +2,146 @@
 import { categories } from '../data/categories';
 ---
 
-<header style="border-bottom: 1px solid var(--color-border); background: var(--color-bg); position: sticky; top: 0; z-index: 20;">
-  <div class="container" style="display: flex; align-items: center; justify-content: space-between; padding-top: 16px; padding-bottom: 16px; gap: 24px;">
-    <a href="/" style="font-weight: 800; font-size: 1.55rem; color: var(--color-text); display: flex; align-items: center; gap: 6px;">
+<header class="site-header">
+  <div class="container site-header__bar">
+    <a href="/" class="site-header__logo">
       <span style="color: var(--color-primary);">Honest</span>PickReview
     </a>
-    <nav style="display: flex; gap: 20px; flex-wrap: wrap; font-size: 0.92rem; font-weight: 600;">
+
+    <nav class="site-header__nav" id="site-nav">
       {categories.slice(0, 4).map((c) => (
-        <a href={`/reviews/${c.slug}/`} style="color: var(--color-text);">{c.name}</a>
+        <a href={`/reviews/${c.slug}/`}>{c.name}</a>
       ))}
-      <a href="/blog/" style="color: var(--color-text);">Buying Guides</a>
-      <a href="/how-we-review/" style="color: var(--color-text);">How We Review</a>
+      <a href="/blog/">Buying Guides</a>
+      <a href="/how-we-review/">How We Review</a>
     </nav>
+
+    <button
+      type="button"
+      class="site-header__toggle"
+      id="nav-toggle"
+      aria-expanded="false"
+      aria-controls="site-nav"
+      aria-label="Toggle menu"
+    >
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
   </div>
 </header>
+
+<style>
+  .site-header {
+    border-bottom: 1px solid var(--color-border);
+    background: var(--color-bg);
+    position: sticky;
+    top: 0;
+    z-index: 30;
+  }
+
+  .site-header__bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+  .site-header__logo {
+    font-weight: 800;
+    font-size: 1.4rem;
+    color: var(--color-text);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+
+  .site-header__nav {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    font-size: 0.92rem;
+    font-weight: 600;
+  }
+
+  .site-header__nav a {
+    color: var(--color-text);
+    white-space: nowrap;
+  }
+
+  .site-header__toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4px;
+    width: 40px;
+    height: 40px;
+    padding: 8px;
+    background: none;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+
+  .site-header__toggle span {
+    display: block;
+    height: 2px;
+    width: 100%;
+    background: var(--color-text);
+    border-radius: 2px;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+  }
+
+  @media (max-width: 760px) {
+    .site-header__toggle {
+      display: flex;
+    }
+
+    .site-header__nav {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      flex-direction: column;
+      gap: 0;
+      background: var(--color-bg);
+      border-bottom: 1px solid var(--color-border);
+      box-shadow: 0 8px 16px rgba(20, 25, 35, 0.08);
+    }
+
+    .site-header__nav.is-open {
+      display: flex;
+    }
+
+    .site-header__nav a {
+      padding: 14px 20px;
+      border-top: 1px solid var(--color-border);
+    }
+
+    .site-header__bar {
+      position: relative;
+    }
+  }
+</style>
+
+<script>
+  const toggle = document.getElementById('nav-toggle');
+  const nav = document.getElementById('site-nav');
+
+  toggle?.addEventListener('click', () => {
+    const isOpen = nav?.classList.toggle('is-open');
+    toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+  });
+
+  nav?.addEventListener('click', (e) => {
+    if ((e.target as HTMLElement).tagName === 'A') {
+      nav.classList.remove('is-open');
+      toggle?.setAttribute('aria-expanded', 'false');
+    }
+  });
+</script>

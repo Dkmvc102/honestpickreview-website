@@ -91,7 +91,7 @@ if (entry.data.faq.length > 0) {
 
     <img src={entry.data.image} alt={entry.data.imageAlt} style="border-radius: var(--radius-md); margin-bottom: 24px; aspect-ratio: 16/9; object-fit: cover; width: 100%;" />
 
-    <div class="card" style="padding: 20px; margin-bottom: 28px; display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: space-between;">
+    <div class="card quick-info">
       <div>
         <div style="font-size: 0.8rem; color: var(--color-text-muted); text-transform: uppercase; letter-spacing: 0.04em;">Best for</div>
         <div style="font-weight: 700;">{entry.data.bestFor}</div>
@@ -100,8 +100,33 @@ if (entry.data.faq.length > 0) {
         <div style="font-size: 0.8rem; color: var(--color-text-muted); text-transform: uppercase; letter-spacing: 0.04em;">Price Range</div>
         <div style="font-weight: 700; color: var(--color-primary-dark);">{entry.data.priceRange}</div>
       </div>
-      <a href={entry.data.affiliateUrl} class="btn btn-primary" rel="sponsored noopener" target="_blank">Check Current Price</a>
+      <a href={entry.data.affiliateUrl} class="btn btn-primary quick-info__cta" rel="sponsored noopener" target="_blank">Check Current Price</a>
     </div>
+
+    <style>
+      .quick-info {
+        padding: 20px;
+        margin-bottom: 28px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      @media (max-width: 560px) {
+        .quick-info {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 16px;
+        }
+
+        .quick-info__cta {
+          width: 100%;
+          text-align: center;
+        }
+      }
+    </style>
 
     <div class="prose">
       <Content />
