@@ -5,36 +5,37 @@ const year = new Date().getFullYear();
 
 <footer class="site-footer">
   <div class="container section" style="padding-bottom: 32px;">
-    <div class="site-footer__grid">
-      <div>
-        <div style="font-weight: 800; font-size: 1.1rem; margin-bottom: 10px;">
-          <span style="color: var(--color-primary);">Honest</span>PickReview
-        </div>
-        <p style="color: var(--color-text-muted); font-size: 0.9rem;">
-          Independent, research-driven reviews of physical products to help you buy with confidence.
-        </p>
+    <div class="site-footer__brand">
+      <div style="font-weight: 800; font-size: 1.1rem; margin-bottom: 10px;">
+        <span style="color: var(--color-primary);">Honest</span>PickReview
       </div>
-      <div>
-        <div style="font-weight: 700; margin-bottom: 10px;">Categories</div>
-        <ul class="site-footer__list site-footer__list--categories">
-          {categories.map((c) => (
-            <li><a href={`/reviews/${c.slug}/`}>{c.name}</a></li>
-          ))}
-        </ul>
-      </div>
-      <div>
-        <div style="font-weight: 700; margin-bottom: 10px;">Company</div>
-        <ul class="site-footer__list">
-          <li><a href="/about/">About Us</a></li>
-          <li><a href="/how-we-review/">How We Review</a></li>
-          <li><a href="/affiliate-disclosure/">Affiliate Disclosure</a></li>
-          <li><a href="/privacy-policy/">Privacy Policy</a></li>
-          <li><a href="/terms/">Terms of Use</a></li>
-          <li><a href="/contact/">Contact</a></li>
-        </ul>
+      <p style="color: var(--color-text-muted); font-size: 0.9rem; max-width: 480px;">
+        Independent, research-driven reviews of physical products to help you buy with confidence.
+      </p>
+    </div>
+
+    <div class="site-footer__col">
+      <div class="site-footer__heading">Categories</div>
+      <div class="site-footer__chips">
+        {categories.map((c) => (
+          <a href={`/reviews/${c.slug}/`} class="site-footer__chip">{c.name}</a>
+        ))}
       </div>
     </div>
-    <div style="border-top: 1px solid var(--color-border); padding-top: 20px; font-size: 0.82rem; color: var(--color-text-muted);">
+
+    <div class="site-footer__col">
+      <div class="site-footer__heading">Company</div>
+      <ul class="site-footer__list">
+        <li><a href="/about/">About Us</a></li>
+        <li><a href="/how-we-review/">How We Review</a></li>
+        <li><a href="/affiliate-disclosure/">Affiliate Disclosure</a></li>
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/terms/">Terms of Use</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+    </div>
+
+    <div class="site-footer__bottom">
       &copy; {year} HonestPickReview.com. All rights reserved. As an affiliate, we may earn a commission from qualifying purchases made through links on this site.
     </div>
   </div>
@@ -48,11 +49,57 @@ const year = new Date().getFullYear();
     margin-top: 64px;
   }
 
-  .site-footer__grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
-    margin-bottom: 32px;
+  .site-footer__brand {
+    margin-bottom: 28px;
+  }
+
+  .site-footer__col {
+    margin-bottom: 24px;
+  }
+
+  @media (min-width: 761px) {
+    .site-footer .container {
+      display: grid;
+      grid-template-columns: 1.3fr 1.4fr 1fr;
+      gap: 32px;
+      align-items: start;
+    }
+
+    .site-footer__brand,
+    .site-footer__col {
+      margin-bottom: 0;
+    }
+
+    .site-footer__bottom {
+      grid-column: 1 / -1;
+    }
+  }
+
+  .site-footer__heading {
+    font-weight: 700;
+    margin-bottom: 12px;
+  }
+
+  .site-footer__chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .site-footer__chip {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    font-size: 0.85rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .site-footer__chip:hover {
+    background: var(--color-surface);
+    text-decoration: none;
   }
 
   .site-footer__list {
@@ -60,24 +107,14 @@ const year = new Date().getFullYear();
     padding: 0;
     margin: 0;
     display: grid;
-    gap: 6px;
+    gap: 8px;
     font-size: 0.9rem;
   }
 
-  @media (max-width: 760px) {
-    .site-footer__grid {
-      grid-template-columns: 1fr 1fr;
-    }
-
-    .site-footer__grid > div:first-child {
-      grid-column: 1 / -1;
-    }
-  }
-
-  @media (max-width: 620px) {
-    .site-footer__list--categories {
-      grid-template-columns: 1fr 1fr;
-      column-gap: 16px;
-    }
+  .site-footer__bottom {
+    border-top: 1px solid var(--color-border);
+    padding-top: 20px;
+    font-size: 0.82rem;
+    color: var(--color-text-muted);
   }
 </style>
