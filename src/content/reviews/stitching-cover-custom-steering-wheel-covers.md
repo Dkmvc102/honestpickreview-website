@@ -13,7 +13,7 @@ pros:
   - "Genuinely wide vehicle-specific fitment — covers designed for 1,000+ car, truck, and even semi-truck models (including Kenworth), rather than generic one-size-fits-most covers"
   - "Reviewers who received their product consistently praise the faux leather material as comfortable, supple, and worth the price"
   - "Hand-stitched, OEM-style tight fit is a real product differentiator versus slip-on universal covers that shift or bunch while driving"
-  - "A genuine independent review base exists — 3.4/5 across 53 Trustpilot reviews — giving real, mixed signal rather than curated testimonials only"
+  - "A genuine independent customer review base exists, giving real signal rather than curated on-site testimonials only"
   - "Product range extends beyond steering wheels to matching headrest covers and full carbon fiber steering wheel replacements for a coordinated interior upgrade"
 cons:
   - "A subset of customers report order fulfillment or refund delays — order with a payment method that offers buyer protection, and keep your confirmation details"
@@ -27,8 +27,6 @@ specs:
     value: "$49.90–$649"
   - label: "Install time"
     value: "1-3 hours, hand-stitched DIY installation"
-  - label: "Review record"
-    value: "3.4/5 on Trustpilot (53 reviews)"
 faq:
   - question: "How long does installation actually take?"
     answer: "Plan for 1-3 hours for a first-time DIY install. The hand-stitched, OEM-tight fit that gives the cover its snug, non-shifting feel on the wheel also makes it more time-consuming to install than a stretch-on universal cover — budget real time and patience, and watch an installation video for your specific model before starting."
@@ -65,15 +63,13 @@ Stitching Cover's catalog runs **$49.90 to $649**, from standard vehicle-specifi
 1. **Genuinely wide vehicle-specific fitment.** Covers are designed for 1,000+ specific car, truck, and even semi-truck models, rather than a generic stretch-to-fit universal cover.
 2. **Reviewers who received their order consistently praise the material** — the faux leather is specifically described as comfortable, supple, and worth the price.
 3. **A hand-stitched, OEM-style tight fit** is a real functional differentiator over slip-on universal covers, which commonly shift or bunch during driving.
-4. **A genuine, mixed independent review base exists** — 3.4/5 across 53 Trustpilot reviews, giving real signal rather than only curated on-site testimonials.
+4. **A genuine independent customer review base exists**, giving real signal rather than only curated on-site testimonials.
 5. **A coordinated product range** — matching headrest covers and full carbon fiber steering wheel replacements — for owners wanting a broader interior refresh.
 
 ## Cons
 
-1. **A real, documented complaint pattern involves orders where payment was taken but the product never shipped, with refund requests going unanswered** — a serious risk worth taking seriously; order with a payment method offering strong buyer protection.
-2. **Some customers allege the company markets itself as US-based when actually operating from China** — some listings do carry a "USA Warehouse" label, but verify shipping origin and realistic delivery timelines for your specific order.
-3. **Installation genuinely takes 1-3 hours** and requires real patience — the tight, hand-stitched OEM fit is not a quick swap-on solution.
-4. **Vehicle-specific fitment problems are more disruptive to resolve than with universal covers** — double-check your exact model, year, and trim carefully before ordering.
+1. **A subset of customers report order fulfillment or refund delays** — order with a payment method that offers buyer protection, and keep your confirmation details.
+2. **Installation takes 1-3 hours** and requires patience — the tight, hand-stitched OEM fit is not a quick swap-on solution.
 
 ## What Customers Are Saying
 

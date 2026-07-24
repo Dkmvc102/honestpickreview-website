@@ -1,0 +1,63 @@
+TIÊU CHÍ VIẾT BÀI REVIEW SẢN PHẨM (BRIDGE PAGE / LANDING PAGE AFFILIATE)
+=========================================================================
+
+1. TIÊU ĐỀ & MỞ BÀI
+- Tiêu đề chứa tên sản phẩm + từ khóa review (VD: "NUTRIQ Kids Review 2026 – Có đáng mua?")
+- Mở bài nêu ngay vấn đề/nỗi lo của người mua (VD: con biếng ăn, thiếu vitamin)
+
+2. THÔNG TIN SẢN PHẨM CƠ BẢN
+- Đây là gì, ai sản xuất, dùng cho ai
+- Thành phần chính và công dụng
+- Giá bán, các gói size, có ưu đãi/discount không
+
+3. ƯU ĐIỂM (PROS)
+- 4-6 điểm mạnh cụ thể, có dẫn chứng (thành phần, chứng nhận, feedback thực tế)
+- Tránh chung chung kiểu "sản phẩm rất tốt"
+
+4. NHƯỢC ĐIỂM (CONS)
+- Bắt buộc phải có, dù chỉ 1-2 điểm nhỏ
+- Tăng độ tin cậy, tránh cảm giác quảng cáo trần trụi
+- Quan trọng để bridge page không bị Google gắn cờ "low quality/misleading"
+
+5. BẰNG CHỨNG XÃ HỘI (SOCIAL PROOF)
+- Trích review khách hàng (paraphrase, không copy nguyên văn để tránh vi phạm bản quyền)
+- KHÔNG trích dẫn/đề cập rating Trustpilot trong bài viết
+- Ưu tiên bằng chứng khách quan khác: feedback trên sàn TMĐT (Amazon, Walmart...),
+  Facebook page chính hãng, KOL/influencer đã review thật, chứng nhận sản phẩm
+  (organic, dermatologically tested, made in Germany...)
+- Trước/sau nếu là sản phẩm sức khỏe – cẩn thận không claim y tế quá đà
+  (đặc biệt thị trường Đức có luật HWG kiểm soát quảng cáo thực phẩm chức năng)
+
+5.1 XỬ LÝ KHI SOCIAL PROOF YẾU/THIẾU
+- Nếu nguyên nhân là logistic (giao hàng/đóng gói) chứ không phải chất lượng sản phẩm,
+  có thể tách bạch rõ trong bài, không né tránh nhưng đặt đúng trọng số
+- Nếu có kênh nào rating cao và uy tín (Amazon, Google Reviews, Facebook page chính hãng)
+  → ưu tiên trích dẫn nguồn đó
+- Nếu brand có KOL/influencer đã review thật → dùng làm bằng chứng bổ sung
+- Giảm trọng số phần social proof, tăng trọng số các yếu tố khách quan khác:
+  thành phần, công nghệ sản xuất, chứng nhận (organic, dermatologically tested,
+  made in Germany...)
+- Nếu rating đang có xu hướng cải thiện gần đây (brand đổi nhà cung cấp/CSKH)
+  có thể nêu xu hướng thay vì chỉ số tĩnh, miễn kiểm chứng được và đúng sự thật
+
+6. SO SÁNH (TÙY CHỌN)
+- So với 1 đối thủ cùng phân khúc để tăng độ khách quan
+
+7. KẾT LUẬN + CTA
+- Tóm tắt "có nên mua không"
+- CTA rõ ràng dẫn sang link affiliate/trang bán hàng
+- Disclaimer affiliate (bắt buộc theo luật Đức/EU)
+
+8. YẾU TỐ KỸ THUẬT
+- Độ dài: 1000-1500 từ cho bridge page (đủ để qua Quality Score, không quá dài gây loãng)
+- Internal link/anchor text tự nhiên chứa brand keyword
+
+9. YÊU CẦU VỀ HÌNH ẢNH
+- Ưu tiên ảnh sản phẩm thật (chụp từ brand, sàn TMĐT chính hãng) hơn ảnh stock/minh họa
+  chung chung, tăng độ tin cậy và tỷ lệ chuyển đổi
+- Tối thiểu 1 ảnh hero ở đầu bài (sản phẩm + bối cảnh sử dụng thực tế)
+- Ảnh chi tiết thành phần/công dụng nếu là supplement, mỹ phẩm (label, bảng thành phần)
+- Ảnh so sánh trước/sau chỉ dùng nếu có nguồn xác thực, tránh over-claim
+- Nếu có video review/demo ngắn, ưu tiên nhúng thêm để tăng thời gian on-page
+- Số lượng khuyến nghị: 3-5 ảnh cho bài 1000-1500 từ, đặt xen kẽ giữa các đoạn
+  (không dồn hết ảnh ở đầu hoặc cuối bài)
