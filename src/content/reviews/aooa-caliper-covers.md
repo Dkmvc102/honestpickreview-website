@@ -39,7 +39,7 @@ faq:
     answer: "AOOA's own site specifically flags needing at least 8mm of clearance between your rim and brake caliper before ordering — check this measurement for your specific wheel and caliper setup, since fitment issues (particularly on the front) have been reported by a minority of buyers."
   - question: "Is professional installation required?"
     answer: "Reviewers, including a detailed forum installation writeup, describe the installation as straightforward enough for a home installer over factory calipers, though comfort with basic wheel-off work varies by person."
-affiliateUrl: "https://aooacalipercovers.com"
+affiliateUrl: "https://www.aooacalipercovers.com?sca_ref=11778616.2NcPyepvoH"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-07-21
 updatedDate: 2026-07-21
@@ -53,7 +53,7 @@ AOOA designs and manufactures aluminum brake caliper covers, founded in New York
 
 ![AOOA aluminum caliper covers installed on a wheel](/images/blog/aooa/caliper-installed.jpg)
 
-**[→ Shop AOOA's caliper cover lineup](https://aooacalipercovers.com)**
+**[→ Shop AOOA's caliper cover lineup](https://www.aooacalipercovers.com?sca_ref=11778616.2NcPyepvoH)**
 
 ## Product Lineup
 
@@ -61,7 +61,7 @@ Most sets are priced around **$238** (marked down from a $268 list price) for a 
 
 ![AOOA caliper cover color options](/images/blog/aooa/color-options.jpg)
 
-**[→ Check current AOOA pricing and color options](https://aooacalipercovers.com)**
+**[→ Check current AOOA pricing and color options](https://www.aooacalipercovers.com?sca_ref=11778616.2NcPyepvoH)**
 
 ## Pros
 
@@ -89,6 +89,6 @@ Against an actual brake caliper paint job (which involves removing wheels, maski
 
 AOOA brings genuine category specialization and consistently positive, specific feedback across its product range to a purely cosmetic upgrade. It's a reasonable choice if you want the painted-caliper look without an actual brake job — just double-check the rim-to-caliper clearance requirement before ordering to minimize your fitment risk.
 
-**[→ Check current pricing on AOOA Caliper Covers](https://aooacalipercovers.com)**
+**[→ Check current pricing on AOOA Caliper Covers](https://www.aooacalipercovers.com?sca_ref=11778616.2NcPyepvoH)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*
