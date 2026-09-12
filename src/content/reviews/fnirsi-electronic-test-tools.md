@@ -40,7 +40,7 @@ faq:
     answer: "A combo device (oscilloscope + multimeter + signal generator in one unit) saves bench space and cost versus buying three separate instruments — a genuine advantage for hobbyists with limited space or budget. The tradeoff is that each function typically has a lower ceiling (bandwidth, accuracy) than a dedicated single-purpose instrument at a similar price point."
   - question: "Are FNIRSI's advertised specs independently verified?"
     answer: "Based on what's published on-site, specs like bandwidth and sample rate are brand-reported rather than accompanied by visible third-party lab certification. Hobbyist reviewers on forums and YouTube have tested many models and generally found them reasonably consistent with advertised specs at this price tier, but we'd recommend checking recent independent reviews for your specific model before buying if precision matters to your use case."
-affiliateUrl: "https://www.fnirsi.com/fr?sca_ref=12228769.oTHcHfBF5QicL&utm_source=af&utm_medium=12228769&utm_campaign=standard-affiliate-commission"
+affiliateUrl: "https://www.fnirsi.com/?sca_ref=12228769.oTHcHfBF5QicL&utm_source=af&utm_medium=12228769&utm_campaign=standard-affiliate-commission"
 author: "HonestPickReview Editorial Team"
 publishDate: 2026-09-09
 updatedDate: 2026-09-09
@@ -54,7 +54,7 @@ FNIRSI is a Chinese electronics test-equipment brand focused on compact, often m
 
 ![FNIRSI handheld oscilloscope, multimeter, and soldering tools lineup](/images/blog/fnirsi/hero.webp)
 
-**[→ Shop FNIRSI's test & measurement lineup](https://www.fnirsi.com/fr?sca_ref=12228769.oTHcHfBF5QicL&utm_source=af&utm_medium=12228769&utm_campaign=standard-affiliate-commission)**
+**[→ Shop FNIRSI's test & measurement lineup](https://www.fnirsi.com/?sca_ref=12228769.oTHcHfBF5QicL&utm_source=af&utm_medium=12228769&utm_campaign=standard-affiliate-commission)**
 
 ## Product Lineup & Pricing
 
@@ -67,7 +67,7 @@ FNIRSI is a Chinese electronics test-equipment brand focused on compact, often m
 
 Discounting is frequent and often substantial (15-40% off list price), and many products carry additional coupon codes — worth checking the current listing price against the "was" price before assuming you're getting the best available deal.
 
-**[→ Compare FNIRSI oscilloscope and multimeter pricing](https://www.fnirsi.com/fr?sca_ref=12228769.oTHcHfBF5QicL&utm_source=af&utm_medium=12228769&utm_campaign=standard-affiliate-commission)**
+**[→ Compare FNIRSI oscilloscope and multimeter pricing](https://www.fnirsi.com/?sca_ref=12228769.oTHcHfBF5QicL&utm_source=af&utm_medium=12228769&utm_campaign=standard-affiliate-commission)**
 
 ## Pros
 
@@ -96,6 +96,6 @@ Against legacy test-equipment brands like Fluke, Rigol, or Siglent, FNIRSI trade
 
 FNIRSI is a solid pick if you're a hobbyist, electronics student, or light-duty repair tech who wants capable, portable test equipment without legacy-brand pricing — the multi-function combo devices in particular deliver real value for bench-space-constrained buyers. If your work requires certified accuracy or safety-rated equipment for professional compliance, budget-tier gear like this isn't the right category regardless of brand.
 
-**[→ Check current FNIRSI pricing and deals](https://www.fnirsi.com/fr?sca_ref=12228769.oTHcHfBF5QicL&utm_source=af&utm_medium=12228769&utm_campaign=standard-affiliate-commission)**
+**[→ Check current FNIRSI pricing and deals](https://www.fnirsi.com/?sca_ref=12228769.oTHcHfBF5QicL&utm_source=af&utm_medium=12228769&utm_campaign=standard-affiliate-commission)**
 
 *This post may contain affiliate links — HonestPickReview may earn a commission on qualifying purchases at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*
