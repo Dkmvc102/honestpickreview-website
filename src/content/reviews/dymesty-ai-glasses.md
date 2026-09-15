@@ -71,6 +71,8 @@ Dymesty is a Colorado-based smart glasses company making camera-free AI eyewear,
 - **Auto on/off** — the glasses power on when unfolded and off when folded, removing the need to manually manage power.
 - **No camera** — a deliberate design decision that avoids both the privacy concerns and the "obviously wearing a camera" social friction that camera-equipped smart glasses (like some competitors) create.
 
+![Dymesty Cook Edge AI glasses, angled view showing the titanium temple and logo](/images/blog/dymesty/detail-angle.png)
+
 ## Pricing & Packages
 
 | Model | Price |
@@ -92,6 +94,8 @@ Free shipping applies over $99, and lens upgrades (prescription, blue-light filt
 4. **Strong claimed battery life** (up to 48 hours total, up to 7 days of meeting recording per charge) beats most competing AI wearables on endurance.
 5. **Doubles as prescription eyewear**, thanks to available lens options, so it doesn't have to be a second pair of glasses you carry alongside your existing ones.
 6. **1-year warranty and 15-day returns** are reasonable buyer protections for a newer-category electronics purchase.
+
+![Dymesty Cook Edge AI glasses worn by a man in a business jacket, showing the low-profile fit](/images/blog/dymesty/lifestyle.jpg)
 
 ## Cons
 
