@@ -5,7 +5,7 @@ brand: "FNIRSI"
 category: "electronics"
 image: "/images/blog/fnirsi/hero.webp"
 imageAlt: "FNIRSI handheld oscilloscope, multimeter, and soldering tools lineup"
-rating: 4.4
+rating: 4.6
 priceRange: "$20 – $370+"
 bestFor: "Hobbyist electronics builders, repair techs, and DIYers wanting compact, budget-friendly test gear — oscilloscopes, multimeters, soldering irons — without paying premium-brand pricing for occasional use"
 shortSummary: "A Chinese electronics test-equipment brand best known for compact, multi-function handheld tools — 2/3-in-1 oscilloscope-multimeter-signal generator combos, clamp meters, LCR/ESR testers, and portable soldering irons — priced well below legacy test-equipment brands like Fluke or Rigol, with frequent discounting but limited independent long-term reliability data outside the hobbyist community."

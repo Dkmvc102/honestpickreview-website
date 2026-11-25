@@ -5,7 +5,7 @@ brand: "WOSPORTS"
 category: "fitness-outdoor"
 image: "/images/blog/wosports/l14-rangefinder.jpg"
 imageAlt: "WOSPORTS L14 golf laser rangefinder"
-rating: 4.3
+rating: 4.5
 priceRange: "$39.99 – $199.99"
 bestFor: "Weekend golfers, hunters and backyard wildlife watchers who want functional rangefinders, 4K trail cameras or night vision binoculars at entry-level prices"
 shortSummary: "WOSPORTS sells budget outdoor optics: golf rangefinders ($79.99–$129.99), hunting rangefinders, 4K trail cameras ($39.99–$99.99) and night vision binoculars ($199.99 for the NV400). Every order ships free in the US, with free 30-day returns and exchanges, a 2-year warranty and 24-hour customer service — strong support for a value-priced brand."

@@ -5,7 +5,7 @@ brand: "God Is Above"
 category: "home-kitchen"
 image: "/images/blog/god-is-above/hero.jpg"
 imageAlt: "God Is Above color-coded Bible verses jar with cork lid next to its black gift box"
-rating: 4.4
+rating: 4.8
 priceRange: "$26 – $79 (jar); rings from $32.95, decor from $26.99"
 bestFor: "Anyone shopping for an affordable, meaningful Christian gift — the color-coded Bible verse jar works well for a friend going through a hard season, a new believer, a church small group swap, or a stocking stuffer"
 shortSummary: "God Is Above is a Christian gifting brand best known for its handmade 90 Day Bible Verses Jar — a cork-lidded glass jar filled with color-coded scripture cards sorted by mood (happy, anxious, thankful, lonely, angry, sad). The catalog also covers zircon cross rings, faith-themed hoodies, metal wall decor, kids' Bible projectors and women's Bible study books. The store shows a 4.7/5 rating across 5,600+ reviews, and almost everything is listed at a steep discount off its compare-at price."

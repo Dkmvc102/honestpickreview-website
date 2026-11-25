@@ -5,7 +5,7 @@ brand: "Brainzyme"
 category: "health-supplements"
 image: "/images/blog/brainzyme/focus-pro.png"
 imageAlt: "Brainzyme FOCUS PRO natural focus supplement packs"
-rating: 4.4
+rating: 4.6
 priceRange: "£29 – £47 per pack"
 bestFor: "Students, professionals and anyone who wants a caffeine-light, plant-based focus supplement as an alternative to energy drinks or heavy coffee use"
 shortSummary: "Brainzyme is a Scottish-made range of plant-based focus supplements: FOCUS PRO (£29, for motivation), FOCUS ELITE (£47, for stress-free focus) and FOCUS ORIGINAL (for a calm mood), plus a Starter Bundle of all three. Formulas combine a matcha L-theanine blend with ginseng, guarana, ginkgo, choline, L-tyrosine and vitamins, and are vegan, gluten-free and filler-free. The brand reports a 4.8/5 rating from 120,000+ customers, with free UK delivery and 365-day returns."

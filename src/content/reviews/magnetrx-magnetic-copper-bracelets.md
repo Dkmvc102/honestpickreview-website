@@ -5,7 +5,7 @@ brand: "MagnetRX"
 category: "fashion-accessories"
 image: "/images/blog/magnetrx/legacy-copper-bracelet.jpg"
 imageAlt: "MagnetRX 3x Strength copper magnetic bracelet for men, Legacy design"
-rating: 4.2
+rating: 4.5
 priceRange: "$27.95 – $149.95"
 bestFor: "People who like the look of solid copper and hematite jewelry and want to try magnetic accessories as part of a wellness routine — with a 60-day risk-free guarantee as a safety net"
 shortSummary: "MagnetRX is a US brand selling magnetic jewelry and wellness accessories: copper and hematite bracelets ($27.95–$69.95), magnetic necklaces, anklets, rings, knee sleeves, insoles and biomagnetic magnet kits. Its best seller is the 3x Strength Copper Magnetic Bracelet for Men ($59.95). The brand claims 30,000+ five-star reviews and offers free US shipping over $39, free returns and a 60-day risk-free guarantee. Scientific evidence that static magnets relieve pain is weak, so it's best bought as attractive jewelry rather than medical treatment."

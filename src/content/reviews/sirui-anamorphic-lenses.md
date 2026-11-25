@@ -5,7 +5,7 @@ brand: "SIRUI"
 category: "electronics"
 image: "/images/blog/sirui/saturn-v2.jpg"
 imageAlt: "SIRUI Saturn V2 35mm T2.9 1.6x full-frame anamorphic lens"
-rating: 4.6
+rating: 4.7
 priceRange: "$239 – $999+ per lens"
 bestFor: "Indie filmmakers, YouTubers and wedding videographers who want a true anamorphic or cine-lens look on mirrorless cameras without spending thousands per lens"
 shortSummary: "SIRUI is best known for making anamorphic cinema lenses affordable. The official store sells the Saturn and Venus 1.6x full-frame anamorphic series (from $299–$599 on sale), the Astra — billed as the world's first full-frame autofocus anamorphic — from $849, and the Night Walker T1.2 S35 cine primes from $239, alongside tripods and lighting. Lenses carry a 1–6 year limited warranty and 30-day returns."

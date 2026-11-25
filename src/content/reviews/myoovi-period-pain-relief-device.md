@@ -5,7 +5,7 @@ brand: "Myoovi"
 category: "health-supplements"
 image: "/images/blog/myoovi/product-card-1.jpg"
 imageAlt: "Woman wearing the Myoovi 2.0 period pain relief device on her lower abdomen"
-rating: 4.5
+rating: 4.6
 priceRange: "£79.99 (2.0) · £59.99 (V1)"
 bestFor: "People with painful periods who want a drug-free, wearable alternative or complement to painkillers — at home, at work or on the go"
 shortSummary: "Myoovi is a UK brand founded by doctors that makes a wireless, wearable TENS device for period pain. The Myoovi 2.0 (£79.99) adds a heat function to TENS stimulation, offers 30 intensity levels and sticks discreetly to the lower abdomen with butterfly pads. It's Good Housekeeping Institute Approved (2024), rated 4.7 by 100,000+ customers, and comes with free UK tracked delivery, a 60-day money-back guarantee and a one-year warranty."

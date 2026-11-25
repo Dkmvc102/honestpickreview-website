@@ -5,7 +5,7 @@ brand: "Maverick Pure Water"
 category: "home-kitchen"
 image: "/images/blog/maverick-pure-water/mav-02.jpg"
 imageAlt: "Maverick Pure Water MAV 02 under-sink water filter"
-rating: 4.4
+rating: 4.6
 priceRange: "£14.99 – £119.99"
 bestFor: "UK households in hard-water areas that want cleaner-tasting tap water — with less chlorine, limescale and microplastics — from a compact under-sink filter they can fit themselves without a plumber"
 shortSummary: "Maverick Pure Water is a UK water filtration brand that makes DIY under-sink drinking water filters. The new MAV 02 starter kit (£119.99) claims to remove 99% of chlorine, limescale, pesticides and microplastics and 70–99% of fluoride, while keeping healthy minerals. Cartridges last up to 12 months or 30,000 litres, install takes 4–6 minutes without a plumber, and replacements cost £39.99–£49.99. The brand also sells filter water bottles."

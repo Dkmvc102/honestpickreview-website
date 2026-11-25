@@ -5,7 +5,7 @@ brand: "Epomaker"
 category: "electronics"
 image: "/images/blog/epomaker/th80-v2-pro.jpg"
 imageAlt: "Epomaker TH series mechanical keyboard with RGB backlighting, screen and knob on a desk"
-rating: 4.5
+rating: 4.7
 priceRange: "$38 – $110+ (keyboards); frequent sitewide sales"
 bestFor: "Gamers, typists and first-time keyboard hobbyists who want enthusiast features — gasket mounts, tri-mode wireless, hot-swap, Hall Effect rapid trigger — at well under custom-keyboard prices"
 shortSummary: "Epomaker sells mechanical keyboards ranging from 20% macropads to full-size 104-key boards, plus switches, keycaps, mice and deskmats. Its Core lineup (TH, Galaxy, RT, Luma, HE) covers tri-mode wireless gasket boards and magnetic Hall Effect gaming boards with rapid trigger, typically priced between about $40 and $110. Free US shipping over $69, a 1-year warranty on keyboards and mice, and 30-day returns on unopened items round out a strong value pitch."

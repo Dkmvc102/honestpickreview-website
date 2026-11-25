@@ -5,7 +5,7 @@ brand: "Commomy"
 category: "home-kitchen"
 image: "/images/blog/commomy/hero.jpg"
 imageAlt: "Commomy 3D peel and stick wall tile installed on a fireplace surround"
-rating: 4.3
+rating: 4.7
 priceRange: "$27.49 – $54.99 per 10-piece pack"
 bestFor: "Renters and budget-conscious homeowners wanting a quick, damage-free way to add textured brick, stone, or hexagon wall detail — around fireplaces, backsplashes, or accent walls — without tools, wet adhesive, or a contractor"
 shortSummary: "A peel-and-stick 3D wall tile brand with 188 designs (brick, stone, hexagon, mosaic, farmhouse and modern styles) across three panel sizes, marketed as waterproof and heat-resistant for kitchen/bathroom use, removable with a hair dryer for rental-friendly installs, with free shipping in the US/CA/DE/AU and frequent 35-60% discounting — though the brand doesn't display independent star ratings or review counts directly on-site, so verifying long-term adhesion and durability claims takes some outside research."

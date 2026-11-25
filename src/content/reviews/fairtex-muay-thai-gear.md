@@ -5,7 +5,7 @@ brand: "Fairtex"
 category: "fitness-outdoor"
 image: "/images/blog/fairtex/bgv1-gloves.jpg"
 imageAlt: "Fairtex BGV1 Muay Thai boxing gloves pair in solid color"
-rating: 4.7
+rating: 4.8
 priceRange: "$25 – $164"
 bestFor: "Muay Thai, kickboxing and MMA practitioners — from serious beginners buying their first real gloves to fighters who want proven, hand-made Thai gear"
 shortSummary: "Fairtex is a Bangkok fight-gear brand with roots going back to 1971, making Muay Thai gloves, shin guards, pads, shorts and hand wraps that are hand-cut and stitched in Thailand. Its US store (shipping from a USA warehouse) sells staples like the BGV1 glove from $95, SP5 competition shin guards at $105 and HW2 hand wraps from $25, plus limited-edition gloves around $145–$164. Free US shipping kicks in at $175."

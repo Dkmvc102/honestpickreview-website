@@ -5,7 +5,7 @@ brand: "Seido Knives"
 category: "home-kitchen"
 image: "/images/blog/seido/master-chef-set.jpg"
 imageAlt: "Seido 8-piece Japanese Master Chef knife set"
-rating: 4.6
+rating: 4.7
 priceRange: "$69 – $899"
 bestFor: "Home cooks who want sharp, attractive Japanese-style knives — gyuto, santoku, nakiri, kiritsuke and Damascus designs — or a complete knife set at a mid-range price"
 shortSummary: "Seido Knives sells hand-forged, high-carbon stainless steel Japanese-style kitchen knives across collections such as Master, Executive, Awabi, Kanpeki, Kurogane and Titan, with VG-10, AUS-10 and Damascus options. Best sellers include the 8-piece Japanese Master Chef Knife Set (from $169, 850 reviews), the Kiritsuke Damascus Chef Knife (from $119, 181 reviews) and large block sets up to $899. Seido offers free shipping, 30-day easy returns and a free lifetime guarantee."

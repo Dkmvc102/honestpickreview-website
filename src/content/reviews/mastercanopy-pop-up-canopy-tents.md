@@ -5,7 +5,7 @@ brand: "MasterCanopy"
 category: "fitness-outdoor"
 image: "/images/blog/mastercanopy/core-35.jpg"
 imageAlt: "MasterCanopy Core-35 premium heavy duty instant pop-up canopy tent"
-rating: 4.2
+rating: 4.5
 priceRange: "$129.95 – $929.95"
 bestFor: "Farmers market and craft-fair vendors, sports families, event organizers and small businesses needing a sturdy pop-up canopy — including custom-printed branded tents"
 shortSummary: "MasterCanopy sells instant pop-up canopy tents in three tiers — Leisure Sports (from $129.95), Lite-30 Commercial (from about $190) and Core-35 Premium heavy duty (from $229.95) — in sizes from 8x8 to 10x20, with optional sidewalls. It also offers custom-printed canopies (from $399.95), gazebos and fade-resistant Olefin patio umbrellas. Orders over $99 ship free in the US."

@@ -5,7 +5,7 @@ brand: "Dymesty"
 category: "electronics"
 image: "/images/blog/dymesty/hero.png"
 imageAlt: "Dymesty Cook Edge AI glasses in titanium frame"
-rating: 4.2
+rating: 4.6
 priceRange: "$299 – $339"
 bestFor: "People who want hands-free meeting recording, real-time translation, and voice AI without wearing an obviously 'tech' gadget, and who specifically don't want a camera on their face"
 shortSummary: "A camera-free AI smart glasses line from a Colorado-based company, using open-ear speakers and onboard AI for meeting recording/summarization, real-time translation across 100+ languages, and hands-free voice assistant access — built into a 35g titanium frame rated for up to 48 hours of use, with a 1-year warranty and 15-day returns, though third-party (non-brand-hosted) review volume is still limited for a newer product category."

@@ -5,7 +5,7 @@ brand: "James Ardon"
 category: "fashion-accessories"
 image: "/images/blog/james-ardon/riviera-tote.jpg"
 imageAlt: "James Ardon Riviera knit bucket tote bag in orange, beige and cream color blocks with rope handle"
-rating: 4.1
+rating: 4.6
 priceRange: "$49.99 – $99.99 (typical sale range)"
 bestFor: "Shoppers looking for trend-forward bags, shoes, scarves and knitwear at mid-range prices, especially during sale events, from a US-based store with free exchanges"
 shortSummary: "James Ardon is a US-owned online store selling apparel, footwear and accessories for men and women — tote bags, rhinestone loafers, painted scarves, knit vests, necklaces, watches and phone cases. Featured items mostly sell between $49.99 and $59.99 on sale. The store offers free US delivery over $99 and free exchanges, and lists a Los Angeles business address and a US phone line, though product-level reviews and material details are thin."

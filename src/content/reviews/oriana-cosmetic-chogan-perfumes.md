@@ -5,7 +5,7 @@ brand: "Oriana Cosmetic (Chogan)"
 category: "beauty-personal-care"
 image: "/images/blog/orianacosmetic/hero.jpg"
 imageAlt: "Chogan Olfazeta Extrait de Parfum bottle 001"
-rating: 4.0
+rating: 4.5
 priceRange: "€15.90 – €229.90"
 bestFor: "Fragrance and cosmetics shoppers wanting designer-inspired perfumes and skincare at factory-direct pricing, and who are comfortable with an 'inspired-by' fragrance model rather than buying original designer-branded bottles"
 shortSummary: "A European (Chogan Group) direct-to-consumer storefront selling the Olfazeta perfume line, Aurodhea skincare and haircare, and makeup at factory-direct pricing — positioned around eliminating retail markup via a direct factory-to-customer model and a stated partnership with a Grasse-based fragrance house — backed by over 1,000 cited positive reviews, though as with any 'inspired-by' fragrance brand, scent-matching accuracy to the specific original varies by number and isn't independently lab-verified."

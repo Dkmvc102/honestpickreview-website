@@ -5,7 +5,7 @@ brand: "Parijan"
 category: "fashion-accessories"
 image: "/images/blog/parijan/taebaek-cable-sweater.jpg"
 imageAlt: "Parijan TAEBAEK zipped cable knit sweater in navy"
-rating: 4.3
+rating: 4.5
 priceRange: "€32.95 – €59.95 (sale) · up to €159.95 for multipacks"
 bestFor: "Men who like the 'old money' / quiet luxury look — cable-knit zip sweaters, polos, linen shirts and suede loafers — without paying designer prices"
 shortSummary: "Parijan is a European menswear brand built around 'Old Money' style: zipped cable-knit sweaters, polos, linen shirts and pants, tailored trousers and suede loafers. Most pieces sell for €35–€60 during sales, for example the TAEBAEK Zipped Cable Sweater at €39.95 and Mayfair Suede Penny Loafers at €44.95, alongside a €49.95 'Mystery Outfit' box. Parijan claims 75,000+ customers, offers free worldwide shipping over €100 and accepts returns within 14 days."

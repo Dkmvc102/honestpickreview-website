@@ -5,7 +5,7 @@ brand: "Fosi Audio"
 category: "electronics"
 image: "/images/blog/fosi-audio/za3.png"
 imageAlt: "Fosi Audio ZA3 balanced stereo class D amplifier"
-rating: 4.6
+rating: 4.7
 priceRange: "$79.99 – $259.99"
 bestFor: "Budget-conscious music listeners who want to power passive bookshelf or floor-standing speakers, add Bluetooth to an older system, or build a compact desktop hi-fi setup without spending hundreds on a traditional receiver"
 shortSummary: "Fosi Audio makes compact Class D amplifiers, DACs, streamers and CD players aimed at affordable desktop and living-room hi-fi. Best sellers include the BT20A Pro Bluetooth amp (from $79.99, 325 reviews), the balanced ZA3 (from $109.99, 428 reviews), the V3 Mono monoblock (from $109.99) and the S3 balanced streamer (from $259.99). A 2-year warranty, a 30-day money-back guarantee and free shipping make it a low-risk way into hi-fi."

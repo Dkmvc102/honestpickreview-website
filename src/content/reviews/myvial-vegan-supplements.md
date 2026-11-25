@@ -5,7 +5,7 @@ brand: "MyVial"
 category: "health-supplements"
 image: "/images/blog/myvial/hero.png"
 imageAlt: "MyVial Vegan Vital package: Magnesium, Omega-3, Zink, Vitamin D3+K2, and B12"
-rating: 4.5
+rating: 4.7
 priceRange: "€12.99 – €95.49"
 bestFor: "People wanting certified organic, vegan, plastic-free supplements from a small German family brand, and who prefer buying themed bundles (immune support, beauty, prenatal) over assembling single supplements themselves"
 shortSummary: "A German, founder-run vegan supplement brand — Magnesium, Omega-3, Vitamin D3+K2, B Complex, Zinc, and Bio Matcha — sold individually or in themed bundles like Immun-Boost and Selfcare Beauty, all hand-packed in Germany with organic, vegan, and plastic-free certification (PETA, Organic, AB Cert), backed by a 365-day money-back guarantee and reported ratings around 4.8-4.96/5 across hundreds of reviews, plus retail availability on Amazon and in REWE stores."
